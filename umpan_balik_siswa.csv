@@ -1,0 +1,301 @@
+ID_Umpan_Balik,NIS,Mata_Pelajaran,Komentar,Bintang,Sentimen
+U0001,S2728,Matematika,Videonya menarik dan tidak membosankan,5,Positif
+U0002,S2743,Bahasa Indonesia,Belajar kelompoknya menyenangkan,5,Positif
+U0003,S2406,Bahasa Indonesia,Belajar kelompoknya menyenangkan,4,Positif
+U0004,S2488,Matematika,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0005,S2413,IPS,Tugasnya terlalu banyak setiap minggu,2,Negatif
+U0006,S2693,Matematika,Penjelasan gurunya jelas dan mudah dipahami,4,Positif
+U0007,S2708,Bahasa Indonesia,Proyektornya sering rusak saat pelajaran,2,Negatif
+U0008,S2592,Bahasa Inggris,Saya merasa lebih percaya diri setelah praktik,4,Positif
+U0009,S2447,IPS,Belajar kelompoknya menyenangkan,5,Positif
+U0010,S2682,Bahasa Inggris,Latihan soalnya membantu sekali sebelum ujian,5,Positif
+U0011,S2758,Bahasa Indonesia,Tugasnya terlalu banyak setiap minggu,2,Negatif
+U0012,S2412,IPS,Belajar kelompoknya menyenangkan,4,Positif
+U0013,S2645,IPA,Proyektornya sering rusak saat pelajaran,2,Negatif
+U0014,S2662,Bahasa Inggris,Saya merasa lebih percaya diri setelah praktik,4,Positif
+U0015,S2625,IPS,"Cukup, tapi bisa lebih baik lagi",3,Netral
+U0016,S2595,IPA,Kadang mudah kadang sulit,3,Netral
+U0017,S2485,IPS,Kadang mudah kadang sulit,3,Netral
+U0018,S2642,Bahasa Indonesia,Videonya menarik dan tidak membosankan,5,Positif
+U0019,S2465,IPA,Videonya menarik dan tidak membosankan,5,Positif
+U0020,S2545,Bahasa Indonesia,Videonya menarik dan tidak membosankan,5,Positif
+U0021,S2530,IPS,Penjelasan gurunya jelas dan mudah dipahami,4,Positif
+U0022,S2679,IPA,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0023,S2583,Matematika,Belajar kelompoknya menyenangkan,5,Positif
+U0024,S2636,Bahasa Indonesia,"Materinya seru, saya jadi suka belajar Bahasa Indonesia",4,Positif
+U0025,S2712,Bahasa Inggris,Proyektornya sering rusak saat pelajaran,2,Negatif
+U0026,S2631,Bahasa Indonesia,"Materinya seru, saya jadi suka belajar Bahasa Indonesia",5,Positif
+U0027,S2454,Bahasa Indonesia,Saya merasa lebih percaya diri setelah praktik,4,Positif
+U0028,S2522,Matematika,Materinya biasa saja,3,Netral
+U0029,S2728,Bahasa Inggris,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0030,S2685,IPS,Materinya biasa saja,3,Netral
+U0031,S2477,Matematika,Latihan soalnya membantu sekali sebelum ujian,4,Positif
+U0032,S2655,Bahasa Indonesia,Materinya biasa saja,3,Netral
+U0033,S2589,Bahasa Inggris,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0034,S2500,Bahasa Indonesia,Belajar kelompoknya menyenangkan,4,Positif
+U0035,S2646,Bahasa Inggris,Videonya menarik dan tidak membosankan,4,Positif
+U0036,S2712,Matematika,"Penjelasannya terlalu cepat, saya sering tertinggal",1,Negatif
+U0037,S2523,IPS,"Cukup, tapi bisa lebih baik lagi",3,Netral
+U0038,S2426,IPS,Belajar kelompoknya menyenangkan,5,Positif
+U0039,S2542,Bahasa Inggris,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0040,S2753,IPS,Nilai tugas lama sekali dibagikan,2,Negatif
+U0041,S2649,Bahasa Indonesia,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0042,S2735,Bahasa Inggris,Latihan soalnya membantu sekali sebelum ujian,5,Positif
+U0043,S2716,IPA,Videonya menarik dan tidak membosankan,5,Positif
+U0044,S2437,Bahasa Inggris,"Materinya seru, saya jadi suka belajar Bahasa Inggris",5,Positif
+U0045,S2588,IPS,Pelajaran IPS berjalan seperti biasa,3,Netral
+U0046,S2717,IPA,Belajar kelompoknya menyenangkan,5,Positif
+U0047,S2578,Matematika,"Penjelasannya terlalu cepat, saya sering tertinggal",2,Negatif
+U0048,S2603,Matematika,Pelajaran Matematika berjalan seperti biasa,3,Netral
+U0049,S2583,Matematika,Videonya menarik dan tidak membosankan,5,Positif
+U0050,S2645,IPA,Kadang mudah kadang sulit,3,Netral
+U0051,S2469,Matematika,Saya bosan karena hanya mencatat dari papan,2,Negatif
+U0052,S2556,Matematika,Saya merasa lebih percaya diri setelah praktik,4,Positif
+U0053,S2542,IPS,Belajar kelompoknya menyenangkan,4,Positif
+U0054,S2536,Bahasa Indonesia,Kelasnya ramai jadi susah konsentrasi,1,Negatif
+U0055,S2686,Bahasa Inggris,Pelajaran Bahasa Inggris berjalan seperti biasa,3,Netral
+U0056,S2724,Matematika,Latihan soalnya membantu sekali sebelum ujian,5,Positif
+U0057,S2740,Bahasa Inggris,"Materinya seru, saya jadi suka belajar Bahasa Inggris",4,Positif
+U0058,S2519,IPA,Kadang mudah kadang sulit,3,Netral
+U0059,S2598,Matematika,"Cukup, tapi bisa lebih baik lagi",3,Netral
+U0060,S2474,IPA,Proyektornya sering rusak saat pelajaran,2,Negatif
+U0061,S2544,Bahasa Indonesia,Tugasnya terlalu banyak setiap minggu,1,Negatif
+U0062,S2631,IPS,Penjelasan gurunya jelas dan mudah dipahami,5,Positif
+U0063,S2491,IPS,Proyektornya sering rusak saat pelajaran,1,Negatif
+U0064,S2636,Bahasa Indonesia,Nilai tugas lama sekali dibagikan,2,Negatif
+U0065,S2401,Matematika,Belajar kelompoknya menyenangkan,5,Positif
+U0066,S2431,Bahasa Indonesia,Penjelasan gurunya jelas dan mudah dipahami,5,Positif
+U0067,S2723,IPA,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0068,S2564,Bahasa Inggris,Gurunya sabar menjawab pertanyaan kami,5,Positif
+U0069,S2636,Matematika,Materi Matematika sulit dan contohnya kurang,2,Negatif
+U0070,S2538,IPS,"Cukup, tapi bisa lebih baik lagi",3,Netral
+U0071,S2696,Bahasa Inggris,Saya bosan karena hanya mencatat dari papan,2,Negatif
+U0072,S2512,Bahasa Inggris,Materi Bahasa Inggris sulit dan contohnya kurang,2,Negatif
+U0073,S2703,Matematika,Kelasnya ramai jadi susah konsentrasi,1,Negatif
+U0074,S2715,Bahasa Inggris,Tugasnya terlalu banyak setiap minggu,1,Negatif
+U0075,S2472,Bahasa Indonesia,Videonya menarik dan tidak membosankan,4,Positif
+U0076,S2540,Bahasa Indonesia,Proyektornya sering rusak saat pelajaran,1,Negatif
+U0077,S2641,Bahasa Inggris,Materinya biasa saja,3,Netral
+U0078,S2564,Matematika,Saya merasa lebih percaya diri setelah praktik,4,Positif
+U0079,S2404,Bahasa Indonesia,Kelasnya ramai jadi susah konsentrasi,1,Negatif
+U0080,S2694,Matematika,Kelasnya ramai jadi susah konsentrasi,1,Negatif
+U0081,S2427,IPS,"Materinya seru, saya jadi suka belajar IPS",5,Positif
+U0082,S2524,Matematika,Saya merasa lebih percaya diri setelah praktik,4,Positif
+U0083,S2642,Matematika,Penjelasan gurunya jelas dan mudah dipahami,5,Positif
+U0084,S2747,IPS,Latihan soalnya membantu sekali sebelum ujian,5,Positif
+U0085,S2479,IPA,Belajar kelompoknya menyenangkan,5,Positif
+U0086,S2618,IPS,"Materinya seru, saya jadi suka belajar IPS",4,Positif
+U0087,S2415,Bahasa Indonesia,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0088,S2470,IPA,Gurunya sabar menjawab pertanyaan kami,5,Positif
+U0089,S2558,Bahasa Indonesia,"Materinya seru, saya jadi suka belajar Bahasa Indonesia",5,Positif
+U0090,S2699,IPS,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0091,S2411,IPS,Kelasnya ramai jadi susah konsentrasi,2,Negatif
+U0092,S2433,Bahasa Inggris,"Penjelasannya terlalu cepat, saya sering tertinggal",1,Negatif
+U0093,S2695,Matematika,Pelajaran Matematika berjalan seperti biasa,3,Netral
+U0094,S2484,IPS,Videonya menarik dan tidak membosankan,4,Positif
+U0095,S2628,IPS,"Materinya seru, saya jadi suka belajar IPS",5,Positif
+U0096,S2708,IPS,Nilai tugas lama sekali dibagikan,1,Negatif
+U0097,S2684,Bahasa Inggris,Materinya biasa saja,3,Netral
+U0098,S2660,IPS,Materinya biasa saja,3,Netral
+U0099,S2644,Bahasa Inggris,"Materinya seru, saya jadi suka belajar Bahasa Inggris",5,Positif
+U0100,S2635,Matematika,Saya merasa lebih percaya diri setelah praktik,4,Positif
+U0101,S2688,IPA,Belajar kelompoknya menyenangkan,5,Positif
+U0102,S2685,IPS,Pelajaran IPS berjalan seperti biasa,3,Netral
+U0103,S2634,Bahasa Inggris,Videonya menarik dan tidak membosankan,5,Positif
+U0104,S2409,IPS,Materinya biasa saja,3,Netral
+U0105,S2524,Matematika,Belajar kelompoknya menyenangkan,5,Positif
+U0106,S2417,Bahasa Inggris,Latihan soalnya membantu sekali sebelum ujian,5,Positif
+U0107,S2406,IPA,Kadang mudah kadang sulit,3,Netral
+U0108,S2576,Bahasa Indonesia,Pelajaran Bahasa Indonesia berjalan seperti biasa,3,Netral
+U0109,S2430,IPS,Belajar kelompoknya menyenangkan,4,Positif
+U0110,S2716,Bahasa Indonesia,Belajar kelompoknya menyenangkan,5,Positif
+U0111,S2401,Bahasa Inggris,Kelasnya ramai jadi susah konsentrasi,2,Negatif
+U0112,S2603,Bahasa Indonesia,Materinya biasa saja,3,Netral
+U0113,S2454,Bahasa Indonesia,Proyektornya sering rusak saat pelajaran,1,Negatif
+U0114,S2551,Matematika,Latihan soalnya membantu sekali sebelum ujian,5,Positif
+U0115,S2640,IPA,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0116,S2562,Bahasa Inggris,Penjelasan gurunya jelas dan mudah dipahami,4,Positif
+U0117,S2710,Matematika,"Materinya seru, saya jadi suka belajar Matematika",5,Positif
+U0118,S2673,Matematika,Belajar kelompoknya menyenangkan,5,Positif
+U0119,S2558,Bahasa Indonesia,Penjelasan gurunya jelas dan mudah dipahami,5,Positif
+U0120,S2634,IPA,Penjelasan gurunya jelas dan mudah dipahami,4,Positif
+U0121,S2660,Matematika,Kadang mudah kadang sulit,3,Netral
+U0122,S2571,IPS,"Materinya seru, saya jadi suka belajar IPS",4,Positif
+U0123,S2505,IPS,Latihan soalnya membantu sekali sebelum ujian,4,Positif
+U0124,S2505,IPS,Kelasnya ramai jadi susah konsentrasi,2,Negatif
+U0125,S2428,IPS,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0126,S2585,Bahasa Inggris,Gurunya sabar menjawab pertanyaan kami,5,Positif
+U0127,S2752,Matematika,Penjelasan gurunya jelas dan mudah dipahami,4,Positif
+U0128,S2580,Bahasa Indonesia,Gurunya sabar menjawab pertanyaan kami,5,Positif
+U0129,S2720,Bahasa Inggris,Latihan soalnya membantu sekali sebelum ujian,5,Positif
+U0130,S2728,Matematika,Penjelasan gurunya jelas dan mudah dipahami,5,Positif
+U0131,S2586,IPA,"Materinya seru, saya jadi suka belajar IPA",5,Positif
+U0132,S2435,Bahasa Indonesia,Saya bosan karena hanya mencatat dari papan,1,Negatif
+U0133,S2410,IPS,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0134,S2645,Matematika,Kadang mudah kadang sulit,3,Netral
+U0135,S2710,IPS,Materinya biasa saja,3,Netral
+U0136,S2644,Matematika,Belajar kelompoknya menyenangkan,5,Positif
+U0137,S2752,IPS,"Penjelasannya terlalu cepat, saya sering tertinggal",1,Negatif
+U0138,S2570,Bahasa Indonesia,"Materinya seru, saya jadi suka belajar Bahasa Indonesia",4,Positif
+U0139,S2540,Matematika,Belajar kelompoknya menyenangkan,4,Positif
+U0140,S2492,IPS,Latihan soalnya membantu sekali sebelum ujian,5,Positif
+U0141,S2673,IPS,Saya merasa lebih percaya diri setelah praktik,4,Positif
+U0142,S2429,Bahasa Indonesia,Pelajaran Bahasa Indonesia berjalan seperti biasa,3,Netral
+U0143,S2475,Bahasa Inggris,"Penjelasannya terlalu cepat, saya sering tertinggal",2,Negatif
+U0144,S2446,Bahasa Indonesia,Belajar kelompoknya menyenangkan,4,Positif
+U0145,S2513,IPA,Kelasnya ramai jadi susah konsentrasi,1,Negatif
+U0146,S2653,IPA,Latihan soalnya membantu sekali sebelum ujian,4,Positif
+U0147,S2689,IPA,Proyektornya sering rusak saat pelajaran,2,Negatif
+U0148,S2623,Bahasa Inggris,Penjelasan gurunya jelas dan mudah dipahami,4,Positif
+U0149,S2576,Matematika,Materinya biasa saja,3,Netral
+U0150,S2635,IPS,Penjelasan gurunya jelas dan mudah dipahami,4,Positif
+U0151,S2670,IPS,"Cukup, tapi bisa lebih baik lagi",3,Netral
+U0152,S2672,Bahasa Inggris,Pelajaran Bahasa Inggris berjalan seperti biasa,3,Netral
+U0153,S2479,IPS,Kadang mudah kadang sulit,3,Netral
+U0154,S2445,Bahasa Indonesia,Materinya biasa saja,3,Netral
+U0155,S2440,IPA,"Materinya seru, saya jadi suka belajar IPA",4,Positif
+U0156,S2472,Bahasa Inggris,Pelajaran Bahasa Inggris berjalan seperti biasa,3,Netral
+U0157,S2707,Matematika,Penjelasan gurunya jelas dan mudah dipahami,5,Positif
+U0158,S2499,Bahasa Indonesia,Proyektornya sering rusak saat pelajaran,1,Negatif
+U0159,S2536,IPA,Gurunya sabar menjawab pertanyaan kami,4,Positif
+U0160,S2548,IPA,Tugasnya terlalu banyak setiap minggu,1,Negatif
+U0161,S2492,Bahasa Inggris,Latihan soalnya membantu sekali sebelum ujian,4,Positif
+U0162,S2406,Bahasa Indonesia,Nilai tugas lama sekali dibagikan,1,Negatif
+U0163,S2411,Matematika,Belajar kelompoknya menyenangkan,5,Positif
+U0164,S2646,IPA,Belajar kelompoknya menyenangkan,4,Positif
+U0165,S2716,IPS,Nilai tugas lama sekali dibagikan,1,Negatif
+U0166,S2424,Bahasa Indonesia,Kadang mudah kadang sulit,3,Netral
+U0167,S2645,IPS,Pelajaran IPS berjalan seperti biasa,3,Netral
+U0168,S2579,Matematika,Kelasnya ramai jadi susah konsentrasi,2,Negatif
+U0169,S2573,Matematika,"Materinya seru, saya jadi suka belajar Matematika",4,Positif
+U0170,S2407,Matematika,"Materinya seru, saya jadi suka belajar Matematika",4,Positif
+U0171,S2496,IPA,Videonya menarik dan tidak membosankan,4,Positif
+U0172,S2513,IPA,Materi IPA sulit dan contohnya kurang,2,Negatif
+U0173,S2404,IPS,Pelajaran IPS berjalan seperti biasa,3,Netral
+U0174,S2498,Matematika,"Materinya seru, saya jadi suka belajar Matematika",4,Positif
+U0175,S2520,Matematika,Proyektornya sering rusak saat pelajaran,2,Negatif
+U0176,S2536,Matematika,Kelasnya ramai jadi susah konsentrasi,2,Negatif
+U0177,S2634,IPS,"Materinya seru, saya jadi suka belajar IPS",5,Positif
+U0178,S2484,Matematika,Videonya menarik dan tidak membosankan,5,Positif
+U0179,S2473,Bahasa Indonesia,"Penjelasannya terlalu cepat, saya sering tertinggal",1,Negatif
+U0180,S2611,Bahasa Indonesia,Pelajaran Bahasa Indonesia berjalan seperti biasa,3,Netral
+U0181,S2457,IPA,Penjelasan gurunya jelas dan mudah dipahami,5,Positif
+U0182,S2546,Bahasa Inggris,"Materinya seru, saya jadi suka belajar Bahasa Inggris",4,Positif
+U0183,S2561,IPA,"Materinya seru, saya jadi suka belajar IPA",4,Positif
+U0184,S2707,Bahasa Inggris,Saya bosan karena hanya mencatat dari papan,2,Negatif
+U0185,S2720,Matematika,Penjelasan gurunya jelas dan mudah dipahami,5,Positif
+U0186,S2437,Matematika,"Materinya seru, saya jadi suka belajar Matematika",4,Positif
+U0187,S2736,Bahasa Inggris,Belajar kelompoknya menyenangkan,5,Positif
+U0188,S2550,Matematika,Pelajaran Matematika berjalan seperti biasa,3,Netral
+U0189,S2654,IPS,Penjelasan gurunya jelas dan mudah dipahami,5,Positif
+U0190,S2672,Bahasa Indonesia,Videonya menarik dan tidak membosankan,4,Positif
+U0191,S2720,Bahasa Inggris,Nilai tugas lama sekali dibagikan,2,Negatif
+U0192,S2709,IPA,Saya bosan karena hanya mencatat dari papan,2,Negatif
+U0193,S2653,Bahasa Inggris,"Penjelasannya terlalu cepat, saya sering tertinggal",2,Negatif
+U0194,S2686,Bahasa Inggris,"Materinya seru, saya jadi suka belajar Bahasa Inggris",4,Positif
+U0195,S2471,Bahasa Indonesia,Pelajaran Bahasa Indonesia berjalan seperti biasa,3,Netral
+U0196,S2722,Bahasa Inggris,Gurunya sabar menjawab pertanyaan kami,5,Positif
+U0197,S2490,IPS,Pelajaran IPS berjalan seperti biasa,3,Netral
+U0198,S2451,IPA,Materinya biasa saja,3,Netral
+U0199,S2719,IPS,Materinya biasa saja,3,Netral
+U0200,S2698,IPA,Saya bosan karena hanya mencatat dari papan,1,Negatif
+U0201,S2459,Bahasa Indonesia,Proyektornya sering rusak saat pelajaran,1,Negatif
+U0202,S2540,Bahasa Indonesia,Latihan soalnya membantu sekali sebelum ujian,4,Positif
+U0203,S2650,Bahasa Inggris,Proyektornya sering rusak saat pelajaran,2,Negatif
+U0204,S2538,IPA,Gurunya sabar menjawab pertanyaan kami,5,Positif
+U0205,S2450,Matematika,"Materinya seru, saya jadi suka belajar Matematika",4,Positif
+U0206,S2486,Bahasa Indonesia,Latihan soalnya membantu sekali sebelum ujian,4,Positif
+U0207,S2718,Matematika,Penjelasan gurunya jelas dan mudah dipahami,5,Positif
+U0208,S2631,IPS,"Cukup, tapi bisa lebih baik lagi",3,Netral
+U0209,S2532,Bahasa Inggris,Tugasnya terlalu banyak setiap minggu,1,Negatif
+U0210,S2572,Bahasa Indonesia,Gurunya sabar menjawab pertanyaan kami,4,Positif
+U0211,S2742,Bahasa Indonesia,Pelajaran Bahasa Indonesia berjalan seperti biasa,3,Netral
+U0212,S2662,Bahasa Inggris,"Penjelasannya terlalu cepat, saya sering tertinggal",2,Negatif
+U0213,S2556,IPA,Pelajaran IPA berjalan seperti biasa,3,Netral
+U0214,S2618,IPA,Belajar kelompoknya menyenangkan,4,Positif
+U0215,S2524,Bahasa Indonesia,Latihan soalnya membantu sekali sebelum ujian,5,Positif
+U0216,S2414,IPA,Penjelasan gurunya jelas dan mudah dipahami,5,Positif
+U0217,S2683,IPA,Latihan soalnya membantu sekali sebelum ujian,4,Positif
+U0218,S2628,Matematika,Gurunya sabar menjawab pertanyaan kami,5,Positif
+U0219,S2470,Bahasa Inggris,Kadang mudah kadang sulit,3,Netral
+U0220,S2531,Bahasa Inggris,Videonya menarik dan tidak membosankan,4,Positif
+U0221,S2510,IPA,Latihan soalnya membantu sekali sebelum ujian,5,Positif
+U0222,S2691,IPS,Belajar kelompoknya menyenangkan,5,Positif
+U0223,S2473,IPS,Belajar kelompoknya menyenangkan,5,Positif
+U0224,S2512,Bahasa Indonesia,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0225,S2753,IPS,Materi IPS sulit dan contohnya kurang,2,Negatif
+U0226,S2707,IPA,Materinya biasa saja,3,Netral
+U0227,S2527,Matematika,Belajar kelompoknya menyenangkan,5,Positif
+U0228,S2525,IPA,"Penjelasannya terlalu cepat, saya sering tertinggal",1,Negatif
+U0229,S2745,IPA,Gurunya sabar menjawab pertanyaan kami,5,Positif
+U0230,S2479,Bahasa Indonesia,Penjelasan gurunya jelas dan mudah dipahami,4,Positif
+U0231,S2681,IPA,Penjelasan gurunya jelas dan mudah dipahami,5,Positif
+U0232,S2561,Bahasa Indonesia,Saya bosan karena hanya mencatat dari papan,1,Negatif
+U0233,S2476,IPS,Saya merasa lebih percaya diri setelah praktik,4,Positif
+U0234,S2459,Bahasa Inggris,Belajar kelompoknya menyenangkan,5,Positif
+U0235,S2609,IPA,Belajar kelompoknya menyenangkan,5,Positif
+U0236,S2450,IPA,Latihan soalnya membantu sekali sebelum ujian,4,Positif
+U0237,S2417,Bahasa Inggris,Belajar kelompoknya menyenangkan,5,Positif
+U0238,S2487,Matematika,Kelasnya ramai jadi susah konsentrasi,1,Negatif
+U0239,S2483,IPS,Tugasnya terlalu banyak setiap minggu,2,Negatif
+U0240,S2466,IPA,Penjelasan gurunya jelas dan mudah dipahami,5,Positif
+U0241,S2643,Bahasa Inggris,Materinya biasa saja,3,Netral
+U0242,S2598,Bahasa Inggris,"Materinya seru, saya jadi suka belajar Bahasa Inggris",4,Positif
+U0243,S2594,Bahasa Inggris,"Materinya seru, saya jadi suka belajar Bahasa Inggris",4,Positif
+U0244,S2436,Bahasa Inggris,Proyektornya sering rusak saat pelajaran,1,Negatif
+U0245,S2577,Bahasa Inggris,"Materinya seru, saya jadi suka belajar Bahasa Inggris",4,Positif
+U0246,S2579,IPS,Materi IPS sulit dan contohnya kurang,1,Negatif
+U0247,S2641,IPS,"Materinya seru, saya jadi suka belajar IPS",5,Positif
+U0248,S2700,Bahasa Inggris,Latihan soalnya membantu sekali sebelum ujian,5,Positif
+U0249,S2411,Bahasa Indonesia,Saya bosan karena hanya mencatat dari papan,2,Negatif
+U0250,S2757,IPS,Belajar kelompoknya menyenangkan,5,Positif
+U0251,S2721,Bahasa Inggris,Pelajaran Bahasa Inggris berjalan seperti biasa,3,Netral
+U0252,S2743,IPA,Nilai tugas lama sekali dibagikan,1,Negatif
+U0253,S2759,IPS,Gurunya sabar menjawab pertanyaan kami,4,Positif
+U0254,S2534,IPS,Pelajaran IPS berjalan seperti biasa,3,Netral
+U0255,S2699,Bahasa Indonesia,"Penjelasannya terlalu cepat, saya sering tertinggal",2,Negatif
+U0256,S2517,Bahasa Inggris,Penjelasan gurunya jelas dan mudah dipahami,4,Positif
+U0257,S2679,IPA,Materinya biasa saja,3,Netral
+U0258,S2600,Bahasa Inggris,Pelajaran Bahasa Inggris berjalan seperti biasa,3,Netral
+U0259,S2591,Bahasa Indonesia,"Materinya seru, saya jadi suka belajar Bahasa Indonesia",5,Positif
+U0260,S2454,IPS,"Materinya seru, saya jadi suka belajar IPS",5,Positif
+U0261,S2703,Bahasa Indonesia,"Cukup, tapi bisa lebih baik lagi",3,Netral
+U0262,S2441,Bahasa Inggris,Videonya menarik dan tidak membosankan,5,Positif
+U0263,S2735,IPS,Penjelasan gurunya jelas dan mudah dipahami,4,Positif
+U0264,S2620,Bahasa Inggris,Materinya biasa saja,3,Netral
+U0265,S2570,Bahasa Inggris,Tugasnya terlalu banyak setiap minggu,2,Negatif
+U0266,S2587,IPS,Videonya menarik dan tidak membosankan,4,Positif
+U0267,S2515,Bahasa Indonesia,Videonya menarik dan tidak membosankan,5,Positif
+U0268,S2477,Bahasa Inggris,Penjelasan gurunya jelas dan mudah dipahami,4,Positif
+U0269,S2643,Bahasa Inggris,Nilai tugas lama sekali dibagikan,2,Negatif
+U0270,S2675,Bahasa Indonesia,Latihan soalnya membantu sekali sebelum ujian,4,Positif
+U0271,S2483,IPA,Pelajaran IPA berjalan seperti biasa,3,Netral
+U0272,S2403,IPA,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0273,S2665,Bahasa Inggris,Saya merasa lebih percaya diri setelah praktik,4,Positif
+U0274,S2435,Matematika,Proyektornya sering rusak saat pelajaran,1,Negatif
+U0275,S2518,Bahasa Inggris,Latihan soalnya membantu sekali sebelum ujian,5,Positif
+U0276,S2650,IPS,Videonya menarik dan tidak membosankan,5,Positif
+U0277,S2608,Matematika,Gurunya sabar menjawab pertanyaan kami,5,Positif
+U0278,S2444,Bahasa Inggris,Gurunya sabar menjawab pertanyaan kami,5,Positif
+U0279,S2578,Bahasa Indonesia,Saya bosan karena hanya mencatat dari papan,1,Negatif
+U0280,S2516,Bahasa Inggris,Pelajaran Bahasa Inggris berjalan seperti biasa,3,Netral
+U0281,S2506,Bahasa Inggris,Belajar kelompoknya menyenangkan,5,Positif
+U0282,S2678,IPS,Kadang mudah kadang sulit,3,Netral
+U0283,S2458,Matematika,Pelajaran Matematika berjalan seperti biasa,3,Netral
+U0284,S2663,Bahasa Inggris,Materi Bahasa Inggris sulit dan contohnya kurang,1,Negatif
+U0285,S2677,IPS,Gurunya sabar menjawab pertanyaan kami,4,Positif
+U0286,S2648,IPS,Kelasnya ramai jadi susah konsentrasi,2,Negatif
+U0287,S2693,IPA,Latihan soalnya membantu sekali sebelum ujian,5,Positif
+U0288,S2430,Bahasa Indonesia,Penjelasan gurunya jelas dan mudah dipahami,4,Positif
+U0289,S2487,IPS,Nilai tugas lama sekali dibagikan,1,Negatif
+U0290,S2439,Matematika,"Cukup, tapi bisa lebih baik lagi",3,Netral
+U0291,S2718,IPA,Saya merasa lebih percaya diri setelah praktik,4,Positif
+U0292,S2751,Matematika,"Cukup, tapi bisa lebih baik lagi",3,Netral
+U0293,S2512,Bahasa Inggris,Latihan soalnya membantu sekali sebelum ujian,4,Positif
+U0294,S2487,IPA,Belajar kelompoknya menyenangkan,5,Positif
+U0295,S2508,IPA,Belajar kelompoknya menyenangkan,5,Positif
+U0296,S2505,Bahasa Inggris,Saya merasa lebih percaya diri setelah praktik,5,Positif
+U0297,S2533,IPS,Saya merasa lebih percaya diri setelah praktik,4,Positif
+U0298,S2427,Bahasa Inggris,Tugasnya terlalu banyak setiap minggu,1,Negatif
+U0299,S2625,IPS,Tugasnya terlalu banyak setiap minggu,2,Negatif
+U0300,S2668,Matematika,Latihan soalnya membantu sekali sebelum ujian,5,Positif

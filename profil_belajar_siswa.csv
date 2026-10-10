@@ -1,0 +1,361 @@
+NIS,Jenis_Kelamin,Kelas,Kehadiran_Persen,Jam_Belajar_Per_Minggu,Ikut_Bimbel,Akses_Internet_Rumah,Rata_Tugas_Smt1,Rata_UTS_Smt1,Rata_Akhir_Smt1,Status_Smt2
+S2401,P,VII-1,89,4,Ya,Ya,87.2,82.2,83.2,Aman
+S2402,L,VII-1,96,13,Ya,Ya,84.8,82.0,82.0,Aman
+S2403,L,VII-1,88,8,Ya,Ya,79.6,79.2,76.4,Perlu Pendampingan
+S2404,P,VII-1,100,1,Tidak,Ya,81.4,78.8,77.7,Aman
+S2405,L,VII-1,91,5,Ya,Ya,82.0,74.4,77.6,Aman
+S2406,L,VII-1,93,11,Ya,Tidak,88.6,90.0,86.2,Aman
+S2407,L,VII-1,95,4,Tidak,Tidak,82.6,80.4,80.2,Perlu Pendampingan
+S2408,L,VII-1,82,11,Tidak,Ya,82.0,80.2,79.7,Aman
+S2409,P,VII-1,89,3,Tidak,Ya,71.4,70.2,69.0,Perlu Pendampingan
+S2410,L,VII-1,100,7,Ya,Ya,86.6,91.4,89.7,Aman
+S2411,P,VII-1,90,8,Ya,Ya,82.6,80.2,79.5,Perlu Pendampingan
+S2412,P,VII-1,98,1,Tidak,Ya,73.0,71.4,71.5,Perlu Pendampingan
+S2413,P,VII-1,95,8,Tidak,Ya,77.2,72.2,75.0,Perlu Pendampingan
+S2414,P,VII-1,79,1,Ya,Tidak,76.4,72.0,73.2,Aman
+S2415,P,VII-1,94,7,Ya,Ya,79.8,76.4,74.2,Aman
+S2416,L,VII-1,83,11,Tidak,Ya,76.6,71.0,72.4,Perlu Pendampingan
+S2417,P,VII-1,92,4,Ya,Ya,79.4,75.4,77.8,Aman
+S2418,P,VII-1,88,7,Tidak,Ya,87.8,77.2,80.8,Aman
+S2419,L,VII-1,90,5,Tidak,Ya,77.0,74.2,71.0,Perlu Pendampingan
+S2420,L,VII-1,90,10,Ya,Ya,86.2,75.6,80.1,Aman
+S2421,L,VII-1,91,9,Tidak,Ya,87.0,84.6,85.4,Aman
+S2422,P,VII-1,87,11,Tidak,Ya,84.6,77.0,82.5,Aman
+S2423,P,VII-1,82,8,Ya,Ya,79.2,72.2,75.2,Aman
+S2424,P,VII-1,84,4,Tidak,Ya,78.2,76.8,76.5,Perlu Pendampingan
+S2425,L,VII-1,95,4,Ya,Ya,84.4,80.4,81.6,Aman
+S2426,P,VII-1,100,1,Ya,Ya,79.8,74.0,74.1,Aman
+S2427,P,VII-1,91,5,Tidak,Ya,74.0,71.4,72.0,Perlu Pendampingan
+S2428,P,VII-1,95,6,Tidak,Ya,88.4,80.0,83.5,Aman
+S2429,L,VII-1,96,7,Tidak,Ya,89.8,86.4,86.6,Aman
+S2430,P,VII-1,82,5,Ya,Ya,84.4,80.4,81.8,Aman
+S2431,P,VII-2,79,4,Ya,Ya,78.6,68.8,71.8,Perlu Pendampingan
+S2432,P,VII-2,90,7,Tidak,Ya,78.8,78.0,76.4,Perlu Pendampingan
+S2433,P,VII-2,79,6,Tidak,Ya,75.6,69.4,72.1,Perlu Pendampingan
+S2434,L,VII-2,88,1,Tidak,Ya,82.4,77.6,76.8,Aman
+S2435,L,VII-2,81,3,Ya,Tidak,79.0,81.0,79.0,Aman
+S2436,L,VII-2,86,4,Ya,Tidak,78.2,81.8,77.4,Aman
+S2437,L,VII-2,85,6,Ya,Ya,84.0,80.4,81.1,Aman
+S2438,L,VII-2,93,9,Tidak,Ya,77.0,79.0,75.2,Perlu Pendampingan
+S2439,L,VII-2,86,9,Ya,Ya,81.0,79.4,78.7,Aman
+S2440,L,VII-2,83,3,Ya,Ya,87.8,81.4,80.4,Aman
+S2441,P,VII-2,90,16,Tidak,Ya,84.8,77.8,79.9,Aman
+S2442,P,VII-2,100,12,Ya,Ya,90.8,91.8,85.6,Aman
+S2443,L,VII-2,93,14,Tidak,Ya,91.0,81.8,88.2,Aman
+S2444,L,VII-2,78,1,Tidak,Ya,78.4,71.0,72.3,Perlu Pendampingan
+S2445,L,VII-2,91,8,Ya,Ya,84.0,81.0,81.0,Aman
+S2446,P,VII-2,100,8,Tidak,Tidak,80.8,79.6,78.9,Aman
+S2447,P,VII-2,91,5,Ya,Ya,72.6,65.2,69.9,Perlu Pendampingan
+S2448,L,VII-2,98,12,Tidak,Ya,82.2,78.6,79.0,Aman
+S2449,L,VII-2,97,6,Tidak,Tidak,82.6,80.2,78.6,Aman
+S2450,L,VII-2,97,8,Ya,Ya,84.2,82.0,83.1,Aman
+S2451,P,VII-2,96,5,Tidak,Ya,81.8,78.2,78.9,Aman
+S2452,L,VII-2,92,5,Ya,Ya,83.4,82.2,82.8,Aman
+S2453,L,VII-2,89,1,Tidak,Tidak,74.2,69.8,70.0,Perlu Pendampingan
+S2454,L,VII-2,88,5,Ya,Ya,74.2,64.6,70.4,Perlu Pendampingan
+S2455,L,VII-2,91,2,Tidak,Ya,79.2,74.4,75.5,Aman
+S2456,P,VII-2,93,3,Tidak,Ya,89.6,82.2,85.9,Aman
+S2457,L,VII-2,82,10,Ya,Ya,81.0,84.6,81.9,Aman
+S2458,L,VII-2,88,8,Tidak,Ya,78.8,72.6,72.1,Aman
+S2459,P,VII-2,90,8,Tidak,Ya,87.6,81.2,82.4,Aman
+S2460,L,VII-2,91,7,Ya,Ya,87.6,83.4,85.3,Aman
+S2461,P,VII-3,88,7,Tidak,Tidak,72.8,61.4,68.5,Perlu Pendampingan
+S2462,L,VII-3,95,7,Tidak,Ya,81.0,77.8,77.6,Aman
+S2463,P,VII-3,89,3,Tidak,Ya,80.8,84.0,80.6,Aman
+S2464,P,VII-3,88,5,Tidak,Ya,78.8,77.4,77.9,Aman
+S2465,P,VII-3,83,12,Ya,Tidak,79.8,80.2,76.0,Aman
+S2466,P,VII-3,85,4,Ya,Ya,76.4,76.0,74.4,Perlu Pendampingan
+S2467,P,VII-3,91,5,Tidak,Ya,80.0,65.0,73.3,Perlu Pendampingan
+S2468,P,VII-3,91,2,Tidak,Ya,70.0,74.2,70.5,Perlu Pendampingan
+S2469,L,VII-3,78,1,Tidak,Ya,72.8,72.6,73.2,Perlu Pendampingan
+S2470,L,VII-3,96,8,Tidak,Ya,84.4,77.2,74.6,Perlu Pendampingan
+S2471,L,VII-3,86,3,Ya,Ya,79.4,75.0,76.6,Perlu Pendampingan
+S2472,P,VII-3,85,10,Tidak,Ya,78.8,72.2,74.0,Perlu Pendampingan
+S2473,P,VII-3,97,13,Tidak,Ya,85.8,82.2,84.6,Aman
+S2474,P,VII-3,97,7,Ya,Ya,85.8,78.4,79.4,Aman
+S2475,P,VII-3,86,3,Tidak,Ya,75.8,72.4,72.5,Perlu Pendampingan
+S2476,L,VII-3,88,12,Tidak,Ya,77.4,75.2,71.9,Perlu Pendampingan
+S2477,L,VII-3,83,10,Ya,Tidak,81.4,78.6,80.3,Aman
+S2478,P,VII-3,95,3,Ya,Ya,84.6,80.0,80.3,Aman
+S2479,L,VII-3,95,10,Ya,Ya,83.6,84.8,81.0,Aman
+S2480,L,VII-3,87,3,Tidak,Ya,80.6,81.2,79.4,Aman
+S2481,L,VII-3,98,6,Tidak,Ya,84.6,78.8,81.3,Aman
+S2482,P,VII-3,96,5,Tidak,Tidak,91.8,82.8,86.4,Aman
+S2483,L,VII-3,89,10,Tidak,Ya,85.2,81.8,81.9,Aman
+S2484,L,VII-3,94,4,Tidak,Ya,82.6,69.4,76.9,Aman
+S2485,L,VII-3,80,11,Ya,Ya,79.4,74.8,74.9,Aman
+S2486,L,VII-3,88,5,Tidak,Ya,77.0,74.0,72.5,Perlu Pendampingan
+S2487,L,VII-3,92,6,Tidak,Ya,89.2,85.8,85.1,Aman
+S2488,P,VII-3,90,2,Tidak,Ya,78.8,68.0,71.8,Perlu Pendampingan
+S2489,L,VII-3,100,7,Tidak,Ya,91.8,90.8,90.7,Aman
+S2490,L,VII-3,92,8,Tidak,Tidak,77.8,73.8,73.6,Perlu Pendampingan
+S2491,P,VII-4,92,13,Ya,Ya,89.2,82.6,85.7,Aman
+S2492,L,VII-4,82,8,Tidak,Ya,74.8,80.0,75.9,Perlu Pendampingan
+S2493,L,VII-4,89,7,Tidak,Ya,82.2,74.4,75.5,Perlu Pendampingan
+S2494,P,VII-4,85,6,Tidak,Ya,76.0,70.4,72.1,Perlu Pendampingan
+S2495,P,VII-4,100,7,Tidak,Tidak,81.8,79.4,80.9,Aman
+S2496,L,VII-4,88,5,Ya,Ya,85.4,81.6,81.7,Aman
+S2497,L,VII-4,91,4,Ya,Ya,80.8,78.4,78.5,Aman
+S2498,P,VII-4,97,6,Tidak,Ya,87.0,82.4,85.4,Aman
+S2499,P,VII-4,94,9,Tidak,Ya,94.4,91.0,89.6,Aman
+S2500,P,VII-4,82,8,Tidak,Ya,84.6,83.4,82.8,Aman
+S2501,L,VII-4,94,5,Tidak,Tidak,81.2,76.8,78.6,Perlu Pendampingan
+S2502,P,VII-4,94,9,Tidak,Ya,79.6,76.0,77.7,Aman
+S2503,L,VII-4,89,4,Tidak,Ya,76.6,73.0,74.2,Perlu Pendampingan
+S2504,L,VII-4,93,3,Tidak,Ya,73.6,72.4,71.3,Perlu Pendampingan
+S2505,L,VII-4,91,10,Ya,Ya,84.2,85.0,84.4,Aman
+S2506,L,VII-4,82,4,Tidak,Tidak,69.6,73.8,69.7,Perlu Pendampingan
+S2507,P,VII-4,87,2,Ya,Ya,79.8,81.0,78.3,Aman
+S2508,L,VII-4,90,3,Tidak,Ya,79.4,74.6,75.0,Perlu Pendampingan
+S2509,P,VII-4,86,4,Tidak,Tidak,82.0,71.8,75.9,Perlu Pendampingan
+S2510,L,VII-4,93,7,Ya,Tidak,88.2,87.6,84.5,Aman
+S2511,L,VII-4,96,9,Ya,Ya,77.4,74.4,74.8,Perlu Pendampingan
+S2512,P,VII-4,92,4,Tidak,Tidak,76.2,71.0,74.6,Aman
+S2513,P,VII-4,88,6,Ya,Ya,83.4,75.4,77.6,Aman
+S2514,P,VII-4,98,6,Ya,Ya,86.0,86.6,84.3,Aman
+S2515,P,VII-4,91,15,Ya,Ya,93.2,83.0,87.0,Aman
+S2516,L,VII-4,92,5,Tidak,Ya,79.0,77.4,78.0,Aman
+S2517,P,VII-4,85,3,Tidak,Tidak,75.2,73.6,73.0,Perlu Pendampingan
+S2518,L,VII-4,89,2,Ya,Tidak,87.8,83.4,83.8,Aman
+S2519,L,VII-4,96,1,Ya,Ya,82.0,78.6,79.5,Aman
+S2520,P,VII-4,94,2,Ya,Ya,89.8,83.8,86.4,Aman
+S2521,P,VIII-1,89,9,Tidak,Tidak,74.2,71.6,74.5,Perlu Pendampingan
+S2522,P,VIII-1,90,10,Ya,Ya,81.0,78.2,74.2,Perlu Pendampingan
+S2523,P,VIII-1,91,9,Tidak,Ya,84.2,82.2,81.5,Perlu Pendampingan
+S2524,L,VIII-1,84,5,Tidak,Ya,82.8,71.6,77.2,Perlu Pendampingan
+S2525,P,VIII-1,89,9,Tidak,Ya,86.0,81.6,81.3,Aman
+S2526,L,VIII-1,87,3,Ya,Ya,81.2,74.4,76.8,Perlu Pendampingan
+S2527,L,VIII-1,82,2,Ya,Ya,71.4,73.8,69.7,Perlu Pendampingan
+S2528,L,VIII-1,91,5,Ya,Ya,69.8,68.0,70.3,Perlu Pendampingan
+S2529,L,VIII-1,89,5,Tidak,Ya,81.6,79.4,80.4,Aman
+S2530,P,VIII-1,81,10,Ya,Ya,87.2,80.8,82.9,Aman
+S2531,L,VIII-1,85,8,Ya,Tidak,80.0,73.4,74.8,Perlu Pendampingan
+S2532,P,VIII-1,89,4,Tidak,Tidak,77.8,69.2,73.0,Perlu Pendampingan
+S2533,L,VIII-1,73,4,Tidak,Ya,71.6,67.8,70.0,Perlu Pendampingan
+S2534,L,VIII-1,91,7,Tidak,Tidak,86.2,81.6,86.6,Aman
+S2535,L,VIII-1,92,6,Tidak,Tidak,81.8,75.8,82.3,Aman
+S2536,L,VIII-1,94,8,Ya,Ya,89.6,80.2,83.7,Aman
+S2537,P,VIII-1,86,6,Tidak,Ya,80.4,73.2,76.3,Aman
+S2538,P,VIII-1,81,10,Tidak,Ya,77.4,73.8,75.1,Aman
+S2539,P,VIII-1,94,3,Ya,Ya,84.6,89.2,87.7,Aman
+S2540,L,VIII-1,82,4,Tidak,Ya,65.4,64.0,63.6,Perlu Pendampingan
+S2541,L,VIII-1,93,3,Tidak,Ya,86.0,74.8,77.4,Aman
+S2542,P,VIII-1,86,4,Tidak,Ya,73.0,68.8,68.5,Perlu Pendampingan
+S2543,P,VIII-1,84,4,Tidak,Tidak,77.0,74.0,74.7,Perlu Pendampingan
+S2544,L,VIII-1,92,3,Tidak,Tidak,80.4,72.8,74.8,Aman
+S2545,L,VIII-1,97,1,Ya,Ya,81.2,75.2,76.6,Perlu Pendampingan
+S2546,P,VIII-1,89,4,Tidak,Tidak,75.2,72.4,74.4,Perlu Pendampingan
+S2547,P,VIII-1,89,10,Tidak,Ya,77.2,71.2,75.2,Perlu Pendampingan
+S2548,P,VIII-1,80,10,Ya,Ya,79.2,74.0,75.1,Perlu Pendampingan
+S2549,P,VIII-1,95,7,Tidak,Ya,79.8,77.4,77.6,Aman
+S2550,P,VIII-1,90,7,Tidak,Ya,74.8,77.6,75.5,Aman
+S2551,P,VIII-2,88,4,Tidak,Ya,83.8,81.8,83.4,Aman
+S2552,P,VIII-2,98,2,Tidak,Tidak,92.8,79.8,86.5,Aman
+S2553,L,VIII-2,81,7,Tidak,Ya,79.4,73.2,76.8,Aman
+S2554,L,VIII-2,87,8,Tidak,Ya,81.2,71.6,75.5,Aman
+S2555,L,VIII-2,90,6,Ya,Ya,85.2,83.4,84.0,Aman
+S2556,P,VIII-2,88,15,Ya,Ya,86.0,81.4,84.9,Aman
+S2557,L,VIII-2,75,16,Tidak,Ya,85.6,79.2,80.0,Aman
+S2558,L,VIII-2,92,5,Tidak,Ya,71.4,64.0,67.9,Perlu Pendampingan
+S2559,L,VIII-2,90,8,Tidak,Ya,77.6,70.6,74.2,Perlu Pendampingan
+S2560,L,VIII-2,96,6,Tidak,Ya,80.8,70.8,73.6,Perlu Pendampingan
+S2561,P,VIII-2,100,20,Ya,Ya,81.4,83.2,82.9,Aman
+S2562,L,VIII-2,89,8,Tidak,Ya,84.0,83.8,80.8,Aman
+S2563,L,VIII-2,92,14,Ya,Ya,88.6,83.6,85.6,Aman
+S2564,P,VIII-2,92,8,Tidak,Tidak,88.0,79.2,80.1,Aman
+S2565,L,VIII-2,91,1,Tidak,Ya,86.4,83.6,82.4,Aman
+S2566,L,VIII-2,89,10,Tidak,Ya,84.4,77.6,79.9,Aman
+S2567,L,VIII-2,92,3,Tidak,Ya,81.0,68.4,74.0,Aman
+S2568,L,VIII-2,97,5,Ya,Ya,78.6,76.6,77.6,Aman
+S2569,L,VIII-2,85,9,Tidak,Ya,69.8,60.8,64.1,Perlu Pendampingan
+S2570,L,VIII-2,100,11,Ya,Ya,92.6,85.0,87.4,Aman
+S2571,P,VIII-2,93,7,Ya,Ya,83.6,76.2,78.6,Aman
+S2572,P,VIII-2,92,4,Tidak,Ya,74.8,68.0,71.5,Aman
+S2573,P,VIII-2,77,4,Tidak,Ya,73.2,65.8,68.7,Perlu Pendampingan
+S2574,L,VIII-2,90,13,Ya,Tidak,83.4,76.6,79.3,Aman
+S2575,P,VIII-2,84,8,Tidak,Ya,76.6,76.6,73.2,Perlu Pendampingan
+S2576,P,VIII-2,93,7,Ya,Ya,86.0,82.8,80.8,Aman
+S2577,L,VIII-2,96,3,Ya,Ya,79.2,75.8,76.6,Aman
+S2578,P,VIII-2,97,7,Tidak,Tidak,89.0,88.4,87.3,Aman
+S2579,P,VIII-2,89,4,Tidak,Tidak,81.2,79.4,77.7,Perlu Pendampingan
+S2580,P,VIII-2,90,8,Ya,Ya,82.2,82.0,81.7,Aman
+S2581,L,VIII-3,93,7,Ya,Ya,82.0,78.4,77.2,Perlu Pendampingan
+S2582,P,VIII-3,77,5,Tidak,Tidak,70.0,69.0,68.7,Perlu Pendampingan
+S2583,L,VIII-3,87,6,Tidak,Ya,86.6,82.0,81.5,Aman
+S2584,L,VIII-3,87,12,Tidak,Ya,80.0,78.8,79.2,Aman
+S2585,L,VIII-3,93,6,Tidak,Tidak,79.8,77.8,79.2,Aman
+S2586,P,VIII-3,87,12,Ya,Tidak,86.4,84.4,83.6,Aman
+S2587,L,VIII-3,94,6,Tidak,Ya,82.8,78.4,78.6,Perlu Pendampingan
+S2588,P,VIII-3,89,4,Ya,Ya,82.2,78.0,78.6,Aman
+S2589,P,VIII-3,95,8,Tidak,Ya,74.4,70.0,70.4,Perlu Pendampingan
+S2590,P,VIII-3,100,7,Ya,Ya,89.4,74.8,83.2,Aman
+S2591,L,VIII-3,99,3,Tidak,Ya,73.6,74.6,72.3,Perlu Pendampingan
+S2592,P,VIII-3,96,9,Tidak,Ya,79.6,73.4,77.7,Aman
+S2593,L,VIII-3,97,8,Tidak,Ya,84.4,81.0,79.7,Aman
+S2594,P,VIII-3,88,11,Ya,Ya,92.6,86.8,87.3,Aman
+S2595,P,VIII-3,85,6,Tidak,Ya,77.8,74.8,74.5,Perlu Pendampingan
+S2596,P,VIII-3,85,3,Tidak,Tidak,76.8,79.0,74.7,Aman
+S2597,P,VIII-3,91,14,Tidak,Tidak,84.6,83.8,82.5,Aman
+S2598,L,VIII-3,99,5,Ya,Ya,91.8,91.6,90.9,Aman
+S2599,P,VIII-3,86,3,Tidak,Ya,79.8,75.2,76.3,Aman
+S2600,P,VIII-3,93,6,Tidak,Ya,84.8,77.8,79.6,Aman
+S2601,P,VIII-3,83,4,Ya,Ya,84.4,81.4,82.4,Aman
+S2602,P,VIII-3,83,5,Tidak,Ya,72.0,63.8,67.1,Perlu Pendampingan
+S2603,L,VIII-3,95,2,Tidak,Ya,80.4,74.0,76.5,Perlu Pendampingan
+S2604,L,VIII-3,86,3,Tidak,Ya,73.6,70.0,70.4,Perlu Pendampingan
+S2605,P,VIII-3,86,10,Tidak,Ya,76.2,78.0,75.3,Aman
+S2606,P,VIII-3,100,7,Tidak,Ya,80.6,74.2,76.4,Aman
+S2607,L,VIII-3,90,3,Ya,Ya,89.0,81.8,82.3,Aman
+S2608,L,VIII-3,90,4,Tidak,Ya,72.2,72.6,70.8,Perlu Pendampingan
+S2609,L,VIII-3,89,4,Tidak,Tidak,76.2,66.2,72.3,Perlu Pendampingan
+S2610,P,VIII-3,92,5,Ya,Ya,84.8,78.2,79.3,Aman
+S2611,L,VIII-4,86,6,Tidak,Ya,78.6,72.4,73.9,Perlu Pendampingan
+S2612,L,VIII-4,90,13,Tidak,Tidak,80.6,80.4,79.3,Perlu Pendampingan
+S2613,L,VIII-4,97,9,Tidak,Tidak,78.6,73.6,74.0,Perlu Pendampingan
+S2614,P,VIII-4,88,7,Tidak,Ya,82.2,73.4,76.8,Aman
+S2615,P,VIII-4,76,5,Tidak,Ya,74.8,73.8,72.3,Aman
+S2616,P,VIII-4,86,2,Tidak,Ya,80.6,68.8,73.7,Aman
+S2617,L,VIII-4,95,5,Tidak,Ya,83.4,80.0,80.2,Perlu Pendampingan
+S2618,P,VIII-4,97,4,Tidak,Ya,84.4,76.8,78.8,Aman
+S2619,P,VIII-4,92,8,Ya,Ya,78.2,80.8,77.5,Aman
+S2620,L,VIII-4,99,6,Tidak,Tidak,79.6,78.4,77.7,Aman
+S2621,L,VIII-4,84,7,Tidak,Ya,74.8,73.8,70.8,Perlu Pendampingan
+S2622,P,VIII-4,98,18,Ya,Ya,96.4,88.4,88.8,Aman
+S2623,P,VIII-4,91,2,Ya,Ya,84.4,80.2,79.7,Aman
+S2624,L,VIII-4,94,3,Tidak,Ya,73.2,79.4,73.4,Perlu Pendampingan
+S2625,P,VIII-4,73,15,Tidak,Ya,86.4,82.6,84.2,Aman
+S2626,P,VIII-4,95,4,Tidak,Tidak,70.2,66.0,66.3,Perlu Pendampingan
+S2627,P,VIII-4,91,6,Tidak,Tidak,74.0,67.4,70.5,Perlu Pendampingan
+S2628,L,VIII-4,100,6,Ya,Tidak,83.6,71.2,77.9,Aman
+S2629,L,VIII-4,91,3,Tidak,Ya,78.2,72.6,74.2,Aman
+S2630,L,VIII-4,84,1,Ya,Tidak,76.8,68.4,71.2,Perlu Pendampingan
+S2631,L,VIII-4,85,7,Ya,Tidak,82.2,82.0,81.9,Aman
+S2632,L,VIII-4,92,4,Tidak,Ya,74.2,72.0,70.8,Perlu Pendampingan
+S2633,L,VIII-4,92,3,Tidak,Ya,76.2,73.2,72.9,Aman
+S2634,L,VIII-4,86,6,Ya,Ya,80.4,69.0,72.7,Aman
+S2635,P,VIII-4,84,6,Ya,Ya,77.8,71.2,72.7,Aman
+S2636,P,VIII-4,99,5,Tidak,Ya,81.8,74.6,74.8,Aman
+S2637,L,VIII-4,89,7,Tidak,Ya,75.2,71.4,71.2,Perlu Pendampingan
+S2638,L,VIII-4,90,7,Ya,Ya,83.6,79.0,80.4,Aman
+S2639,P,VIII-4,87,4,Tidak,Ya,80.0,75.0,73.7,Aman
+S2640,P,VIII-4,98,5,Tidak,Ya,87.2,90.4,87.0,Aman
+S2641,P,IX-1,97,8,Tidak,Ya,90.0,89.4,87.8,Aman
+S2642,P,IX-1,84,2,Tidak,Ya,67.0,63.8,65.9,Perlu Pendampingan
+S2643,P,IX-1,90,4,Ya,Ya,86.0,83.6,85.0,Aman
+S2644,P,IX-1,84,4,Tidak,Ya,79.0,70.8,75.2,Aman
+S2645,P,IX-1,100,4,Tidak,Ya,90.2,78.0,83.7,Aman
+S2646,L,IX-1,93,16,Tidak,Ya,86.6,87.6,85.0,Aman
+S2647,P,IX-1,88,9,Tidak,Ya,85.8,77.2,79.9,Aman
+S2648,L,IX-1,88,3,Tidak,Ya,79.6,77.0,79.1,Aman
+S2649,P,IX-1,93,3,Tidak,Ya,88.8,86.6,83.9,Aman
+S2650,L,IX-1,89,7,Ya,Tidak,76.2,73.4,75.9,Perlu Pendampingan
+S2651,L,IX-1,99,3,Tidak,Ya,79.8,75.6,77.8,Perlu Pendampingan
+S2652,L,IX-1,84,4,Tidak,Ya,77.0,75.0,74.5,Perlu Pendampingan
+S2653,L,IX-1,83,7,Tidak,Tidak,81.4,84.8,80.5,Aman
+S2654,P,IX-1,98,9,Tidak,Ya,95.6,89.4,91.2,Aman
+S2655,L,IX-1,87,6,Tidak,Ya,75.8,64.8,70.0,Perlu Pendampingan
+S2656,P,IX-1,99,4,Ya,Ya,86.6,79.2,83.6,Aman
+S2657,L,IX-1,95,6,Tidak,Ya,82.8,72.8,76.5,Aman
+S2658,L,IX-1,82,2,Ya,Tidak,77.2,70.8,72.9,Perlu Pendampingan
+S2659,L,IX-1,86,4,Tidak,Ya,82.2,78.4,76.0,Perlu Pendampingan
+S2660,P,IX-1,90,2,Tidak,Ya,85.6,84.8,85.7,Aman
+S2661,L,IX-1,89,6,Ya,Tidak,82.8,78.0,79.8,Aman
+S2662,P,IX-1,92,6,Tidak,Ya,80.0,74.2,75.8,Perlu Pendampingan
+S2663,P,IX-1,86,3,Ya,Ya,75.4,73.0,75.6,Perlu Pendampingan
+S2664,P,IX-1,89,9,Ya,Tidak,84.4,79.0,82.5,Aman
+S2665,P,IX-1,96,9,Ya,Tidak,83.8,86.6,83.3,Aman
+S2666,P,IX-1,98,3,Tidak,Tidak,83.8,79.0,79.9,Aman
+S2667,L,IX-1,85,9,Tidak,Ya,87.4,81.2,84.2,Aman
+S2668,P,IX-1,89,9,Tidak,Ya,79.6,74.6,78.1,Aman
+S2669,L,IX-1,89,4,Ya,Tidak,82.6,73.2,76.7,Aman
+S2670,L,IX-1,82,10,Ya,Ya,89.0,82.2,81.8,Aman
+S2671,L,IX-2,96,7,Tidak,Ya,86.2,89.6,85.4,Aman
+S2672,P,IX-2,93,17,Tidak,Tidak,81.0,79.6,79.9,Aman
+S2673,P,IX-2,93,3,Tidak,Ya,76.6,73.4,73.5,Perlu Pendampingan
+S2674,P,IX-2,89,8,Ya,Ya,80.4,70.8,73.0,Aman
+S2675,P,IX-2,95,5,Tidak,Ya,69.8,70.2,69.5,Perlu Pendampingan
+S2676,P,IX-2,96,5,Ya,Tidak,83.4,81.4,82.0,Aman
+S2677,P,IX-2,97,11,Ya,Ya,82.0,75.4,79.9,Aman
+S2678,L,IX-2,89,8,Tidak,Ya,82.2,79.2,81.5,Aman
+S2679,P,IX-2,92,6,Tidak,Ya,81.2,71.6,74.4,Aman
+S2680,P,IX-2,88,5,Tidak,Ya,85.0,76.6,78.7,Aman
+S2681,P,IX-2,88,4,Ya,Ya,83.0,77.0,80.6,Aman
+S2682,P,IX-2,96,3,Tidak,Ya,82.2,80.2,79.4,Aman
+S2683,P,IX-2,90,3,Ya,Tidak,86.0,79.2,81.4,Aman
+S2684,L,IX-2,89,2,Tidak,Ya,74.6,63.6,67.9,Perlu Pendampingan
+S2685,L,IX-2,94,4,Tidak,Tidak,74.0,65.2,67.3,Perlu Pendampingan
+S2686,L,IX-2,94,10,Tidak,Ya,81.0,82.4,78.7,Aman
+S2687,L,IX-2,85,7,Tidak,Ya,80.2,80.2,80.4,Perlu Pendampingan
+S2688,L,IX-2,86,7,Ya,Tidak,75.0,71.4,71.7,Perlu Pendampingan
+S2689,L,IX-2,94,3,Ya,Ya,86.2,85.8,82.2,Aman
+S2690,P,IX-2,93,10,Tidak,Tidak,83.2,82.2,83.0,Aman
+S2691,L,IX-2,89,4,Ya,Ya,80.2,77.2,79.7,Aman
+S2692,L,IX-2,97,5,Tidak,Ya,85.6,83.2,81.2,Aman
+S2693,L,IX-2,89,3,Ya,Ya,83.8,72.8,79.2,Perlu Pendampingan
+S2694,L,IX-2,78,8,Ya,Ya,81.8,77.4,78.8,Perlu Pendampingan
+S2695,P,IX-2,85,1,Tidak,Ya,69.6,65.2,66.5,Perlu Pendampingan
+S2696,L,IX-2,81,4,Tidak,Ya,79.4,75.8,75.7,Perlu Pendampingan
+S2697,P,IX-2,97,3,Ya,Ya,86.2,79.2,80.5,Aman
+S2698,L,IX-2,93,10,Tidak,Ya,83.4,79.2,83.1,Aman
+S2699,P,IX-2,91,9,Tidak,Ya,78.0,76.2,73.9,Aman
+S2700,L,IX-2,76,4,Tidak,Ya,71.4,68.0,67.3,Perlu Pendampingan
+S2701,L,IX-3,81,9,Tidak,Tidak,80.8,79.0,76.7,Aman
+S2702,P,IX-3,89,5,Ya,Tidak,77.0,70.4,71.9,Perlu Pendampingan
+S2703,L,IX-3,79,3,Ya,Ya,74.2,72.0,72.0,Perlu Pendampingan
+S2704,L,IX-3,96,6,Tidak,Ya,79.2,78.6,77.2,Aman
+S2705,L,IX-3,89,5,Ya,Ya,82.6,77.8,78.6,Aman
+S2706,P,IX-3,89,4,Tidak,Ya,83.6,75.4,80.0,Aman
+S2707,L,IX-3,90,2,Tidak,Ya,79.8,75.4,78.0,Aman
+S2708,L,IX-3,84,4,Tidak,Ya,72.2,69.6,68.4,Perlu Pendampingan
+S2709,P,IX-3,84,5,Ya,Ya,78.0,74.4,76.2,Aman
+S2710,P,IX-3,79,2,Ya,Ya,75.6,74.2,72.9,Perlu Pendampingan
+S2711,L,IX-3,90,9,Ya,Ya,88.2,82.2,85.4,Aman
+S2712,L,IX-3,92,5,Tidak,Ya,81.6,76.8,78.6,Aman
+S2713,L,IX-3,89,14,Ya,Ya,93.0,92.6,92.8,Aman
+S2714,P,IX-3,88,2,Ya,Tidak,80.2,77.8,78.5,Aman
+S2715,L,IX-3,84,7,Ya,Ya,70.4,73.2,70.3,Perlu Pendampingan
+S2716,L,IX-3,92,7,Tidak,Ya,79.6,79.6,79.9,Aman
+S2717,L,IX-3,75,6,Tidak,Ya,72.4,74.4,73.2,Aman
+S2718,L,IX-3,83,5,Tidak,Ya,75.8,70.6,73.7,Perlu Pendampingan
+S2719,P,IX-3,86,13,Ya,Tidak,89.0,88.0,85.6,Aman
+S2720,P,IX-3,87,6,Tidak,Tidak,73.6,73.4,72.6,Perlu Pendampingan
+S2721,P,IX-3,91,2,Tidak,Tidak,76.4,70.8,73.2,Perlu Pendampingan
+S2722,P,IX-3,89,6,Tidak,Ya,70.4,68.8,68.2,Perlu Pendampingan
+S2723,L,IX-3,91,7,Tidak,Ya,77.2,78.2,74.2,Perlu Pendampingan
+S2724,L,IX-3,97,2,Tidak,Ya,80.2,72.8,73.7,Perlu Pendampingan
+S2725,L,IX-3,98,3,Tidak,Ya,82.2,69.4,74.3,Aman
+S2726,L,IX-3,94,7,Ya,Ya,77.2,68.0,73.6,Perlu Pendampingan
+S2727,L,IX-3,97,4,Tidak,Ya,82.0,81.2,79.7,Aman
+S2728,P,IX-3,100,6,Ya,Ya,91.0,90.0,90.8,Aman
+S2729,L,IX-3,92,3,Tidak,Ya,78.8,69.0,73.3,Perlu Pendampingan
+S2730,L,IX-3,82,3,Tidak,Ya,80.4,80.2,77.1,Perlu Pendampingan
+S2731,L,IX-4,96,10,Tidak,Tidak,79.2,69.6,74.2,Perlu Pendampingan
+S2732,L,IX-4,84,10,Ya,Ya,76.2,73.6,75.7,Perlu Pendampingan
+S2733,P,IX-4,100,13,Tidak,Ya,94.0,87.6,91.4,Aman
+S2734,P,IX-4,100,4,Ya,Ya,85.0,81.6,82.1,Aman
+S2735,P,IX-4,87,12,Ya,Ya,88.2,79.6,81.9,Aman
+S2736,L,IX-4,83,2,Ya,Ya,86.8,88.4,83.8,Aman
+S2737,P,IX-4,86,10,Tidak,Ya,82.2,82.2,78.0,Aman
+S2738,L,IX-4,90,9,Ya,Ya,80.6,86.4,81.4,Aman
+S2739,P,IX-4,98,2,Tidak,Ya,83.2,74.2,79.0,Perlu Pendampingan
+S2740,L,IX-4,83,6,Tidak,Ya,82.6,82.4,81.5,Aman
+S2741,L,IX-4,95,2,Ya,Ya,87.0,79.4,82.2,Aman
+S2742,L,IX-4,78,3,Tidak,Tidak,71.4,65.2,65.8,Perlu Pendampingan
+S2743,L,IX-4,97,9,Tidak,Tidak,81.2,76.0,77.5,Perlu Pendampingan
+S2744,L,IX-4,90,11,Tidak,Ya,87.8,78.8,81.4,Aman
+S2745,L,IX-4,91,6,Ya,Ya,84.6,78.8,80.5,Aman
+S2746,P,IX-4,89,6,Tidak,Ya,81.0,80.0,81.7,Aman
+S2747,P,IX-4,96,11,Tidak,Ya,92.2,82.0,86.3,Aman
+S2748,P,IX-4,92,8,Tidak,Ya,83.8,79.4,79.8,Aman
+S2749,L,IX-4,100,2,Ya,Ya,83.4,83.0,82.9,Aman
+S2750,P,IX-4,79,9,Tidak,Tidak,78.4,74.2,77.2,Aman
+S2751,P,IX-4,85,4,Tidak,Ya,70.2,70.2,70.8,Perlu Pendampingan
+S2752,L,IX-4,82,25,Tidak,Tidak,82.2,73.0,78.9,Aman
+S2753,P,IX-4,94,3,Tidak,Ya,77.8,77.8,77.6,Aman
+S2754,P,IX-4,80,4,Tidak,Ya,75.0,71.6,68.6,Perlu Pendampingan
+S2755,L,IX-4,100,2,Tidak,Ya,77.4,66.6,71.7,Perlu Pendampingan
+S2756,L,IX-4,91,4,Tidak,Ya,85.2,79.8,80.7,Aman
+S2757,L,IX-4,97,6,Ya,Ya,87.6,78.8,83.8,Aman
+S2758,P,IX-4,84,5,Tidak,Ya,80.0,84.4,80.6,Aman
+S2759,P,IX-4,91,3,Ya,Ya,82.4,81.0,79.0,Aman
+S2760,L,IX-4,94,3,Ya,Tidak,78.6,79.6,78.9,Aman
