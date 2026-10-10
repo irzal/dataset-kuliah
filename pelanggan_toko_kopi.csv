@@ -1,0 +1,601 @@
+ID_Pelanggan,Usia,Member,Frekuensi_Kunjungan,Total_Belanja,Hari_Libur,Hari_Sejak_Kunjungan_Terakhir,Pakai_Promo,Menu_Favorit,Metode_Bayar,Status
+PLG0001,53,Tidak,6,261000,Tidak,5,Ya,Cappuccino,QRIS,Kembali
+PLG0002,41,Ya,7,342000,Tidak,3,Ya,Cappuccino,E-Wallet,Kembali
+PLG0003,43,Tidak,3,94000,Ya,12,Ya,Caffe Latte,QRIS,Kembali
+PLG0004,51,Tidak,4,125000,Tidak,0,Tidak,Es Kopi Susu Gula Aren,Kartu Debit,Kabur
+PLG0005,39,Tidak,6,178000,Tidak,4,Tidak,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0006,47,Tidak,3,58000,Ya,5,Tidak,Matcha Latte,E-Wallet,Kabur
+PLG0007,49,Ya,4,117000,Tidak,16,Ya,Cappuccino,QRIS,Kabur
+PLG0008,25,Tidak,5,193000,Ya,23,Ya,Coklat Panas,QRIS,Kembali
+PLG0009,19,Ya,7,188000,Ya,13,Tidak,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0010,28,Tidak,5,114000,Ya,6,Ya,Cappuccino,QRIS,Kabur
+PLG0011,28,Tidak,2,58000,Tidak,13,Ya,Cappuccino,Tunai,Kabur
+PLG0012,51,Ya,4,92000,Tidak,38,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kabur
+PLG0013,52,Tidak,5,180000,Ya,32,Tidak,Caffe Latte,E-Wallet,Kabur
+PLG0014,17,Tidak,6,201000,Ya,6,Tidak,Americano,QRIS,Kembali
+PLG0015,36,Ya,7,262000,Tidak,8,Tidak,Americano,Tunai,Kabur
+PLG0016,49,Tidak,2,54000,Ya,60,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kabur
+PLG0017,22,Tidak,7,228000,Ya,6,Tidak,Cappuccino,QRIS,Kembali
+PLG0018,48,Ya,8,472000,Tidak,4,Tidak,Caffe Latte,Kartu Debit,Kembali
+PLG0019,21,Ya,4,103000,Tidak,1,Ya,Matcha Latte,QRIS,Kembali
+PLG0020,35,Tidak,2,91000,Tidak,26,Ya,Matcha Latte,E-Wallet,Kabur
+PLG0021,48,Tidak,4,103000,Tidak,30,Ya,Coklat Panas,Tunai,Kabur
+PLG0022,28,Ya,11,114000,Ya,9,Ya,Coklat Panas,E-Wallet,Kembali
+PLG0023,30,Tidak,2,70000,Ya,13,Tidak,Caffe Latte,QRIS,Kembali
+PLG0024,27,Tidak,2,57000,Tidak,22,Tidak,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0025,45,Tidak,2,81000,Tidak,4,Ya,Cappuccino,QRIS,Kembali
+PLG0026,26,Ya,7,170000,Tidak,6,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0027,55,Ya,9,290000,Ya,1,Ya,Cappuccino,QRIS,Kembali
+PLG0028,34,Tidak,6,273000,Tidak,1,Tidak,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0029,35,Ya,13,699000,Ya,10,Tidak,Cappuccino,Tunai,Kembali
+PLG0030,36,Ya,5,194000,Ya,60,Ya,Matcha Latte,Tunai,Kabur
+PLG0031,39,Tidak,3,63000,Ya,11,Tidak,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0032,38,Tidak,4,205000,Ya,24,Tidak,Matcha Latte,Tunai,Kembali
+PLG0033,36,Tidak,5,235000,Ya,8,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0034,55,Ya,6,268000,Ya,1,Ya,Cappuccino,E-Wallet,Kembali
+PLG0035,48,Tidak,3,105000,Ya,45,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kabur
+PLG0036,47,Ya,7,441000,Tidak,3,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0037,44,Tidak,5,167000,Tidak,7,Tidak,Cappuccino,Tunai,Kembali
+PLG0038,41,Ya,7,270000,Tidak,4,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0039,30,Tidak,4,53000,Tidak,14,Tidak,Es Kopi Susu Gula Aren,Tunai,Kabur
+PLG0040,55,Ya,7,237000,Tidak,6,Ya,Matcha Latte,QRIS,Kembali
+PLG0041,35,Ya,12,365000,Ya,2,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0042,25,Ya,8,227000,Tidak,4,Tidak,Coklat Panas,QRIS,Kembali
+PLG0043,49,Tidak,4,167000,Tidak,10,Tidak,Cappuccino,QRIS,Kabur
+PLG0044,23,Tidak,3,56000,Tidak,55,Tidak,Americano,QRIS,Kabur
+PLG0045,50,Ya,8,375000,Tidak,3,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0046,40,Tidak,4,127000,Ya,27,Ya,Matcha Latte,QRIS,Kabur
+PLG0047,21,Tidak,4,101000,Tidak,1,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0048,18,Tidak,1,24000,Ya,10,Tidak,Matcha Latte,E-Wallet,Kabur
+PLG0049,34,Ya,6,169000,Tidak,11,Ya,Cappuccino,E-Wallet,Kembali
+PLG0050,18,Ya,11,363000,Tidak,6,Ya,Americano,QRIS,Kembali
+PLG0051,22,Ya,11,334000,Tidak,10,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0052,37,Ya,3,91000,Ya,6,Ya,Americano,QRIS,Kembali
+PLG0053,54,Ya,6,310000,Ya,1,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0054,35,Tidak,3,129000,Ya,13,Ya,Matcha Latte,E-Wallet,Kabur
+PLG0055,48,Ya,4,171000,Tidak,16,Tidak,Caffe Latte,Tunai,Kembali
+PLG0056,52,Ya,6,165000,Tidak,4,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0057,49,Tidak,3,79000,Tidak,14,Ya,Cappuccino,E-Wallet,Kembali
+PLG0058,41,Tidak,2,69000,Ya,16,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0059,34,Ya,10,328000,Tidak,7,Tidak,Caffe Latte,QRIS,Kembali
+PLG0060,37,Tidak,3,95000,Ya,7,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0061,27,Ya,9,268000,Tidak,11,Ya,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0062,36,Tidak,7,122000,Tidak,1,Tidak,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0063,31,Ya,7,194000,Ya,28,Ya,Coklat Panas,E-Wallet,Kembali
+PLG0064,26,Tidak,5,56000,Tidak,2,Ya,Matcha Latte,E-Wallet,Kembali
+PLG0065,55,Tidak,5,267000,Tidak,14,Ya,Americano,QRIS,Kabur
+PLG0066,17,Tidak,3,71000,Ya,9,Tidak,Matcha Latte,Kartu Debit,Kabur
+PLG0067,20,Ya,8,176000,Ya,2,Tidak,Americano,QRIS,Kembali
+PLG0068,24,Tidak,6,123000,Ya,2,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0069,54,Tidak,5,237000,Tidak,0,Tidak,Matcha Latte,QRIS,Kembali
+PLG0070,43,Ya,6,232000,Ya,9,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0071,51,Ya,4,171000,Ya,15,Tidak,Matcha Latte,Kartu Debit,Kembali
+PLG0072,24,Ya,7,87000,Tidak,11,Ya,Coklat Panas,QRIS,Kembali
+PLG0073,45,Tidak,4,199000,Ya,12,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0074,31,Tidak,6,266000,Tidak,5,Tidak,Matcha Latte,QRIS,Kembali
+PLG0075,36,Ya,10,452000,Ya,1,Ya,Matcha Latte,Tunai,Kembali
+PLG0076,17,Tidak,6,240000,Ya,19,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0077,41,Ya,5,171000,Tidak,9,Ya,Americano,E-Wallet,Kembali
+PLG0078,49,Tidak,6,207000,Ya,7,Ya,Es Kopi Susu Gula Aren,Tunai,Kabur
+PLG0079,42,Tidak,8,318000,Tidak,6,Ya,Americano,QRIS,Kembali
+PLG0080,23,Tidak,3,101000,Tidak,14,Tidak,Americano,E-Wallet,Kabur
+PLG0081,37,Ya,8,323000,Ya,11,Tidak,Americano,E-Wallet,Kembali
+PLG0082,27,Ya,9,239000,Ya,5,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0083,54,Tidak,4,132000,Tidak,5,Tidak,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0084,51,Ya,7,268000,Tidak,7,Tidak,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0085,24,Ya,7,272000,Tidak,7,Tidak,Caffe Latte,Kartu Debit,Kembali
+PLG0086,36,Tidak,2,80000,Ya,17,Tidak,Caffe Latte,Kartu Debit,Kabur
+PLG0087,53,Tidak,3,181000,Ya,12,Ya,Matcha Latte,QRIS,Kembali
+PLG0088,50,Tidak,2,52000,Tidak,8,Ya,Caffe Latte,QRIS,Kembali
+PLG0089,44,Tidak,5,181000,Ya,9,Tidak,Matcha Latte,QRIS,Kabur
+PLG0090,41,Tidak,4,219000,Ya,2,Tidak,Cappuccino,Tunai,Kembali
+PLG0091,18,Tidak,2,51000,Ya,1,Tidak,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0092,45,Tidak,6,166000,Tidak,9,Ya,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0093,35,Tidak,4,187000,Tidak,17,Ya,Caffe Latte,QRIS,Kembali
+PLG0094,20,Tidak,5,155000,Tidak,34,Ya,Cappuccino,QRIS,Kabur
+PLG0095,26,Ya,6,116000,Tidak,1,Tidak,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0096,38,Ya,9,397000,Tidak,16,Tidak,Cappuccino,QRIS,Kembali
+PLG0097,45,Tidak,1,32000,Ya,50,Tidak,Coklat Panas,Tunai,Kabur
+PLG0098,36,Ya,8,218000,Ya,6,Ya,Cappuccino,QRIS,Kembali
+PLG0099,40,Tidak,4,158000,Ya,36,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kabur
+PLG0100,50,Tidak,4,118000,Ya,4,Ya,Matcha Latte,QRIS,Kembali
+PLG0101,43,Ya,3,74000,Ya,24,Tidak,Americano,E-Wallet,Kembali
+PLG0102,31,Tidak,4,123000,Ya,3,Ya,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0103,42,Ya,6,177000,Ya,10,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0104,40,Tidak,3,109000,Ya,11,Ya,Coklat Panas,QRIS,Kembali
+PLG0105,21,Ya,11,325000,Tidak,7,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0106,19,Tidak,3,114000,Tidak,3,Ya,Matcha Latte,Tunai,Kembali
+PLG0107,42,Tidak,8,242000,Tidak,17,Tidak,Es Kopi Susu Gula Aren,Kartu Debit,Kabur
+PLG0108,32,Tidak,1,30000,Ya,7,Tidak,Americano,QRIS,Kabur
+PLG0109,40,Ya,6,162000,Tidak,1,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0110,29,Tidak,5,138000,Tidak,15,Tidak,Americano,Kartu Debit,Kembali
+PLG0111,25,Tidak,4,150000,Tidak,13,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0112,22,Tidak,2,71000,Tidak,1,Ya,Americano,E-Wallet,Kembali
+PLG0113,31,Tidak,4,109000,Tidak,21,Tidak,Matcha Latte,QRIS,Kabur
+PLG0114,48,Tidak,4,178000,Tidak,15,Tidak,Cappuccino,QRIS,Kabur
+PLG0115,32,Tidak,8,213000,Tidak,2,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kabur
+PLG0116,31,Tidak,3,128000,Ya,6,Ya,Matcha Latte,QRIS,Kembali
+PLG0117,39,Tidak,1,33000,Tidak,19,Tidak,Matcha Latte,E-Wallet,Kabur
+PLG0118,55,Ya,7,301000,Tidak,1,Ya,Americano,E-Wallet,Kembali
+PLG0119,32,Tidak,3,129000,Ya,18,Ya,Americano,E-Wallet,Kembali
+PLG0120,40,Ya,8,282000,Ya,0,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0121,34,Tidak,5,214000,Ya,12,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0122,40,Tidak,4,127000,Ya,3,Ya,Americano,QRIS,Kembali
+PLG0123,34,Ya,3,126000,Ya,14,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0124,41,Tidak,4,193000,Tidak,12,Tidak,Coklat Panas,QRIS,Kembali
+PLG0125,38,Ya,10,649000,Tidak,12,Tidak,Caffe Latte,QRIS,Kembali
+PLG0126,43,Tidak,4,176000,Tidak,5,Ya,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0127,54,Tidak,2,75000,Tidak,15,Ya,Cappuccino,E-Wallet,Kabur
+PLG0128,22,Tidak,3,52000,Ya,2,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kabur
+PLG0129,38,Tidak,4,175000,Tidak,5,Ya,Coklat Panas,E-Wallet,Kembali
+PLG0130,34,Tidak,4,88000,Ya,7,Ya,Cappuccino,Kartu Debit,Kembali
+PLG0131,30,Tidak,3,61000,Ya,33,Tidak,Caffe Latte,E-Wallet,Kembali
+PLG0132,26,Ya,8,209000,Ya,4,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0133,19,Tidak,3,52000,Tidak,22,Tidak,Cappuccino,QRIS,Kabur
+PLG0134,32,Tidak,2,97000,Tidak,39,Ya,Caffe Latte,Tunai,Kabur
+PLG0135,49,Tidak,3,118000,Tidak,38,Ya,Americano,E-Wallet,Kabur
+PLG0136,20,Ya,8,164000,Tidak,2,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0137,32,Tidak,5,188000,Ya,2,Tidak,Americano,QRIS,Kembali
+PLG0138,54,Tidak,3,83000,Tidak,12,Ya,Matcha Latte,QRIS,Kembali
+PLG0139,54,Tidak,6,136000,Tidak,5,Ya,Americano,QRIS,Kembali
+PLG0140,25,Ya,3,92000,Ya,3,Tidak,Coklat Panas,E-Wallet,Kembali
+PLG0141,17,Tidak,2,68000,Tidak,21,Ya,Cappuccino,QRIS,Kabur
+PLG0142,43,Ya,11,392000,Tidak,6,Ya,Matcha Latte,E-Wallet,Kembali
+PLG0143,17,Ya,8,225000,Tidak,3,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0144,28,Tidak,3,60000,Tidak,26,Ya,Caffe Latte,E-Wallet,Kembali
+PLG0145,36,Ya,5,208000,Ya,17,Ya,Cappuccino,E-Wallet,Kembali
+PLG0146,51,Tidak,4,114000,Ya,13,Tidak,Americano,QRIS,Kembali
+PLG0147,20,Tidak,4,100000,Ya,27,Ya,Coklat Panas,QRIS,Kabur
+PLG0148,42,Tidak,3,131000,Tidak,40,Tidak,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0149,37,Tidak,6,257000,Tidak,3,Tidak,Cappuccino,QRIS,Kembali
+PLG0150,22,Tidak,6,143000,Tidak,2,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0151,49,Tidak,8,244000,Ya,5,Ya,Coklat Panas,QRIS,Kembali
+PLG0152,49,Tidak,4,198000,Ya,55,Tidak,Matcha Latte,Tunai,Kabur
+PLG0153,35,Tidak,6,341000,Ya,2,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0154,53,Tidak,7,197000,Tidak,5,Ya,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0155,40,Tidak,6,214000,Ya,3,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0156,52,Tidak,4,137000,Ya,10,Tidak,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0157,54,Tidak,5,230000,Ya,5,Tidak,Coklat Panas,QRIS,Kembali
+PLG0158,39,Ya,8,229000,Tidak,7,Tidak,Matcha Latte,QRIS,Kembali
+PLG0159,27,Tidak,1,32000,Tidak,26,Tidak,Matcha Latte,QRIS,Kabur
+PLG0160,22,Ya,6,129000,Tidak,8,Ya,Americano,QRIS,Kembali
+PLG0161,38,Tidak,5,254000,Ya,1,Ya,Cappuccino,E-Wallet,Kembali
+PLG0162,24,Tidak,4,136000,Ya,1,Tidak,Cappuccino,E-Wallet,Kembali
+PLG0163,46,Tidak,7,289000,Tidak,14,Ya,Matcha Latte,QRIS,Kabur
+PLG0164,53,Ya,12,369000,Tidak,5,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0165,26,Tidak,6,231000,Ya,5,Tidak,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0166,38,Ya,8,299000,Tidak,3,Tidak,Cappuccino,QRIS,Kembali
+PLG0167,18,Tidak,8,137000,Tidak,9,Tidak,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0168,24,Tidak,3,96000,Tidak,3,Tidak,Coklat Panas,E-Wallet,Kembali
+PLG0169,31,Tidak,3,92000,Tidak,53,Ya,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0170,51,Tidak,4,127000,Ya,14,Tidak,Coklat Panas,E-Wallet,Kembali
+PLG0171,54,Ya,8,229000,Tidak,19,Ya,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0172,42,Ya,10,260000,Ya,2,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0173,39,Tidak,6,212000,Ya,0,Ya,Americano,Tunai,Kembali
+PLG0174,39,Tidak,1,28000,Ya,17,Tidak,Caffe Latte,QRIS,Kabur
+PLG0175,19,Tidak,2,57000,Ya,7,Tidak,Coklat Panas,Tunai,Kembali
+PLG0176,31,Tidak,2,79000,Tidak,23,Tidak,Cappuccino,QRIS,Kabur
+PLG0177,55,Tidak,6,224000,Tidak,7,Ya,Matcha Latte,QRIS,Kembali
+PLG0178,33,Tidak,1,30000,Ya,4,Tidak,Matcha Latte,E-Wallet,Kabur
+PLG0179,25,Tidak,7,259000,Tidak,9,Ya,Coklat Panas,E-Wallet,Kembali
+PLG0180,26,Ya,5,54000,Tidak,3,Tidak,Americano,E-Wallet,Kembali
+PLG0181,44,Ya,11,264000,Ya,17,Ya,Cappuccino,Tunai,Kembali
+PLG0182,18,Ya,5,181000,Tidak,11,Ya,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0183,54,Tidak,4,185000,Ya,14,Ya,Americano,QRIS,Kembali
+PLG0184,51,Tidak,2,80000,Tidak,58,Ya,Americano,E-Wallet,Kabur
+PLG0185,39,Ya,8,258000,Tidak,0,Ya,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0186,35,Tidak,2,49000,Tidak,18,Ya,Matcha Latte,Kartu Debit,Kabur
+PLG0187,46,Ya,6,194000,Tidak,1,Ya,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0188,38,Tidak,2,91000,Tidak,13,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0189,35,Tidak,6,166000,Tidak,30,Tidak,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0190,29,Tidak,3,62000,Ya,17,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0191,34,Ya,5,112000,Ya,12,Tidak,Matcha Latte,E-Wallet,Kembali
+PLG0192,46,Ya,7,206000,Tidak,10,Ya,Cappuccino,QRIS,Kembali
+PLG0193,19,Tidak,6,174000,Tidak,7,Ya,Cappuccino,QRIS,Kembali
+PLG0194,17,Tidak,1,33000,Tidak,7,Tidak,Americano,Tunai,Kabur
+PLG0195,45,Tidak,4,116000,Tidak,4,Ya,Coklat Panas,QRIS,Kembali
+PLG0196,31,Ya,8,210000,Tidak,30,Ya,Americano,QRIS,Kembali
+PLG0197,48,Tidak,6,210000,Tidak,8,Tidak,Cappuccino,E-Wallet,Kembali
+PLG0198,18,Ya,6,178000,Tidak,5,Ya,Caffe Latte,Tunai,Kembali
+PLG0199,52,Tidak,1,28000,Tidak,11,Tidak,Coklat Panas,Tunai,Kabur
+PLG0200,21,Ya,10,254000,Tidak,10,Tidak,Matcha Latte,QRIS,Kembali
+PLG0201,33,Tidak,5,93000,Tidak,26,Tidak,Matcha Latte,QRIS,Kabur
+PLG0202,54,Tidak,6,164000,Tidak,0,Tidak,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0203,21,Tidak,9,293000,Tidak,6,Ya,Coklat Panas,QRIS,Kembali
+PLG0204,42,Tidak,3,150000,Ya,26,Ya,Matcha Latte,QRIS,Kabur
+PLG0205,45,Tidak,3,93000,Tidak,5,Tidak,Americano,QRIS,Kembali
+PLG0206,33,Tidak,6,190000,Ya,2,Tidak,Matcha Latte,QRIS,Kembali
+PLG0207,20,Ya,9,330000,Tidak,10,Ya,Coklat Panas,E-Wallet,Kembali
+PLG0208,37,Tidak,9,281000,Tidak,9,Tidak,Caffe Latte,Tunai,Kembali
+PLG0209,33,Ya,6,227000,Tidak,5,Tidak,Caffe Latte,E-Wallet,Kembali
+PLG0210,51,Ya,3,109000,Tidak,19,Ya,Matcha Latte,QRIS,Kembali
+PLG0211,43,Tidak,2,87000,Tidak,8,Tidak,Matcha Latte,QRIS,Kabur
+PLG0212,30,Tidak,6,235000,Tidak,8,Tidak,Matcha Latte,QRIS,Kembali
+PLG0213,19,Ya,8,255000,Tidak,3,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0214,40,Tidak,4,143000,Tidak,8,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0215,27,Tidak,2,59000,Ya,26,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0216,43,Tidak,2,67000,Ya,47,Ya,Americano,Kartu Debit,Kabur
+PLG0217,50,Ya,13,367000,Tidak,2,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0218,30,Tidak,5,81000,Tidak,60,Tidak,Cappuccino,QRIS,Kabur
+PLG0219,52,Ya,4,189000,Tidak,25,Ya,Coklat Panas,QRIS,Kabur
+PLG0220,37,Tidak,3,65000,Tidak,8,Tidak,Coklat Panas,QRIS,Kabur
+PLG0221,37,Ya,9,435000,Tidak,5,Ya,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0222,46,Tidak,1,34000,Tidak,31,Tidak,Caffe Latte,QRIS,Kabur
+PLG0223,47,Ya,4,144000,Tidak,7,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0224,52,Tidak,4,186000,Tidak,60,Tidak,Matcha Latte,QRIS,Kabur
+PLG0225,55,Tidak,4,154000,Ya,16,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0226,22,Tidak,8,329000,Tidak,1,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0227,33,Ya,5,169000,Tidak,32,Ya,Americano,E-Wallet,Kembali
+PLG0228,53,Tidak,2,65000,Tidak,17,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0229,28,Ya,9,254000,Ya,1,Tidak,Caffe Latte,E-Wallet,Kembali
+PLG0230,17,Ya,5,188000,Ya,20,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0231,39,Ya,10,463000,Tidak,5,Tidak,Caffe Latte,QRIS,Kembali
+PLG0232,46,Ya,3,102000,Ya,1,Ya,Coklat Panas,QRIS,Kembali
+PLG0233,45,Tidak,10,396000,Tidak,1,Tidak,Cappuccino,QRIS,Kembali
+PLG0234,48,Tidak,3,98000,Ya,21,Ya,Cappuccino,QRIS,Kabur
+PLG0235,42,Tidak,2,69000,Tidak,12,Ya,Coklat Panas,E-Wallet,Kabur
+PLG0236,22,Ya,7,196000,Ya,8,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0237,50,Ya,7,368000,Tidak,7,Tidak,Matcha Latte,QRIS,Kabur
+PLG0238,33,Ya,6,130000,Ya,6,Ya,Caffe Latte,Tunai,Kembali
+PLG0239,50,Tidak,9,391000,Ya,6,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0240,48,Tidak,3,112000,Tidak,10,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0241,54,Tidak,4,110000,Tidak,18,Tidak,Caffe Latte,Tunai,Kabur
+PLG0242,17,Tidak,8,215000,Ya,0,Tidak,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0243,50,Tidak,5,145000,Tidak,3,Ya,Matcha Latte,E-Wallet,Kembali
+PLG0244,41,Tidak,6,233000,Tidak,5,Tidak,Coklat Panas,E-Wallet,Kembali
+PLG0245,35,Tidak,3,133000,Ya,36,Ya,Matcha Latte,QRIS,Kabur
+PLG0246,47,Ya,5,131000,Ya,17,Tidak,Matcha Latte,Tunai,Kembali
+PLG0247,54,Ya,8,393000,Tidak,2,Tidak,Cappuccino,E-Wallet,Kembali
+PLG0248,37,Tidak,5,174000,Ya,15,Ya,Matcha Latte,E-Wallet,Kembali
+PLG0249,20,Tidak,7,296000,Ya,22,Tidak,Americano,Tunai,Kabur
+PLG0250,45,Ya,10,419000,Tidak,4,Tidak,Americano,Tunai,Kembali
+PLG0251,25,Tidak,3,124000,Ya,28,Ya,Caffe Latte,Tunai,Kembali
+PLG0252,25,Tidak,4,127000,Tidak,11,Ya,Americano,QRIS,Kabur
+PLG0253,24,Ya,10,390000,Tidak,5,Ya,Es Kopi Susu Gula Aren,Tunai,Kabur
+PLG0254,24,Ya,7,210000,Ya,9,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0255,52,Ya,11,362000,Tidak,7,Ya,Americano,QRIS,Kembali
+PLG0256,31,Ya,7,286000,Ya,1,Ya,Americano,QRIS,Kembali
+PLG0257,21,Tidak,4,127000,Tidak,3,Tidak,Matcha Latte,QRIS,Kembali
+PLG0258,23,Ya,7,269000,Ya,22,Ya,Matcha Latte,E-Wallet,Kembali
+PLG0259,32,Ya,10,235000,Ya,17,Ya,Matcha Latte,QRIS,Kembali
+PLG0260,30,Ya,4,104000,Tidak,3,Ya,Matcha Latte,QRIS,Kembali
+PLG0261,29,Tidak,3,115000,Ya,3,Ya,Americano,E-Wallet,Kabur
+PLG0262,53,Ya,10,245000,Tidak,5,Tidak,Americano,QRIS,Kembali
+PLG0263,50,Tidak,4,128000,Ya,6,Ya,Matcha Latte,E-Wallet,Kabur
+PLG0264,39,Ya,11,632000,Tidak,15,Tidak,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0265,55,Ya,14,734000,Ya,2,Ya,Caffe Latte,QRIS,Kembali
+PLG0266,30,Tidak,4,70000,Tidak,31,Ya,Cappuccino,QRIS,Kabur
+PLG0267,22,Ya,2,65000,Tidak,39,Ya,Caffe Latte,QRIS,Kabur
+PLG0268,27,Tidak,8,273000,Tidak,4,Tidak,Caffe Latte,QRIS,Kembali
+PLG0269,20,Tidak,5,157000,Ya,8,Tidak,Caffe Latte,QRIS,Kembali
+PLG0270,54,Tidak,6,213000,Ya,2,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0271,25,Tidak,3,76000,Tidak,17,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0272,34,Ya,3,85000,Tidak,13,Ya,Coklat Panas,E-Wallet,Kembali
+PLG0273,24,Tidak,5,98000,Ya,3,Tidak,Matcha Latte,E-Wallet,Kembali
+PLG0274,55,Tidak,5,197000,Tidak,2,Tidak,Cappuccino,E-Wallet,Kembali
+PLG0275,23,Tidak,1,24000,Tidak,15,Tidak,Caffe Latte,E-Wallet,Kabur
+PLG0276,37,Ya,6,306000,Tidak,10,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kabur
+PLG0277,54,Tidak,2,75000,Ya,9,Ya,Americano,QRIS,Kabur
+PLG0278,37,Tidak,5,100000,Ya,1,Tidak,Cappuccino,E-Wallet,Kembali
+PLG0279,52,Tidak,3,108000,Tidak,35,Ya,Caffe Latte,QRIS,Kabur
+PLG0280,51,Ya,7,277000,Tidak,3,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0281,46,Tidak,1,37000,Ya,18,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kabur
+PLG0282,45,Tidak,6,197000,Ya,2,Tidak,Coklat Panas,QRIS,Kembali
+PLG0283,39,Ya,9,253000,Ya,18,Ya,Matcha Latte,E-Wallet,Kembali
+PLG0284,39,Ya,3,170000,Tidak,1,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0285,49,Ya,5,175000,Tidak,5,Tidak,Matcha Latte,QRIS,Kembali
+PLG0286,33,Tidak,5,220000,Ya,10,Tidak,Matcha Latte,Tunai,Kembali
+PLG0287,53,Tidak,3,109000,Tidak,3,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0288,51,Tidak,5,150000,Tidak,5,Tidak,Matcha Latte,Tunai,Kembali
+PLG0289,31,Tidak,11,591000,Tidak,0,Ya,Americano,Tunai,Kembali
+PLG0290,33,Tidak,2,33000,Ya,9,Tidak,Americano,Tunai,Kabur
+PLG0291,44,Tidak,8,270000,Ya,10,Tidak,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0292,52,Tidak,3,128000,Ya,4,Ya,Cappuccino,Tunai,Kembali
+PLG0293,20,Tidak,3,67000,Tidak,5,Tidak,Caffe Latte,Kartu Debit,Kembali
+PLG0294,19,Tidak,1,31000,Ya,20,Ya,Cappuccino,E-Wallet,Kabur
+PLG0295,26,Ya,5,117000,Ya,15,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0296,33,Tidak,1,34000,Ya,12,Tidak,Matcha Latte,QRIS,Kabur
+PLG0297,23,Ya,8,401000,Tidak,1,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0298,37,Tidak,8,313000,Tidak,2,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0299,38,Tidak,4,133000,Ya,13,Tidak,Caffe Latte,QRIS,Kembali
+PLG0300,54,Tidak,5,128000,Ya,4,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0301,46,Tidak,3,90000,Tidak,11,Ya,Coklat Panas,QRIS,Kembali
+PLG0302,26,Tidak,3,86000,Ya,24,Tidak,Caffe Latte,Tunai,Kabur
+PLG0303,47,Ya,8,300000,Tidak,9,Ya,Matcha Latte,QRIS,Kembali
+PLG0304,48,Ya,6,244000,Tidak,2,Ya,Americano,E-Wallet,Kembali
+PLG0305,43,Ya,5,151000,Ya,29,Ya,Americano,QRIS,Kabur
+PLG0306,43,Ya,11,482000,Tidak,7,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0307,29,Ya,7,86000,Ya,4,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0308,44,Tidak,6,241000,Ya,8,Tidak,Americano,QRIS,Kembali
+PLG0309,22,Tidak,7,180000,Ya,11,Ya,Matcha Latte,QRIS,Kembali
+PLG0310,41,Ya,5,138000,Ya,60,Ya,Cappuccino,QRIS,Kabur
+PLG0311,52,Tidak,2,84000,Tidak,12,Tidak,Matcha Latte,QRIS,Kembali
+PLG0312,54,Tidak,5,155000,Ya,9,Ya,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0313,28,Tidak,3,59000,Tidak,36,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kabur
+PLG0314,29,Tidak,5,192000,Tidak,3,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0315,41,Ya,5,219000,Tidak,7,Ya,Coklat Panas,QRIS,Kembali
+PLG0316,32,Tidak,5,221000,Ya,2,Ya,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0317,45,Ya,9,324000,Ya,1,Tidak,Cappuccino,Tunai,Kembali
+PLG0318,24,Ya,9,283000,Tidak,3,Ya,Caffe Latte,Kartu Debit,Kembali
+PLG0319,23,Tidak,3,113000,Tidak,23,Tidak,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0320,18,Tidak,2,68000,Tidak,1,Ya,Coklat Panas,QRIS,Kembali
+PLG0321,35,Ya,12,639000,Ya,3,Tidak,Coklat Panas,Tunai,Kembali
+PLG0322,25,Ya,5,122000,Ya,6,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0323,28,Tidak,4,103000,Tidak,11,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0324,52,Ya,3,102000,Tidak,34,Tidak,Caffe Latte,QRIS,Kabur
+PLG0325,48,Tidak,4,47000,Ya,23,Ya,Cappuccino,QRIS,Kabur
+PLG0326,49,Ya,10,277000,Tidak,3,Ya,Cappuccino,QRIS,Kembali
+PLG0327,40,Tidak,4,154000,Ya,4,Ya,Caffe Latte,QRIS,Kembali
+PLG0328,21,Ya,4,123000,Tidak,17,Tidak,Coklat Panas,QRIS,Kabur
+PLG0329,46,Tidak,2,69000,Tidak,2,Tidak,Matcha Latte,Tunai,Kembali
+PLG0330,40,Ya,5,252000,Tidak,5,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0331,52,Tidak,5,223000,Ya,3,Ya,Caffe Latte,E-Wallet,Kembali
+PLG0332,35,Tidak,3,97000,Tidak,0,Tidak,Americano,QRIS,Kembali
+PLG0333,23,Ya,6,237000,Tidak,3,Ya,Coklat Panas,E-Wallet,Kembali
+PLG0334,40,Ya,12,607000,Tidak,5,Tidak,Cappuccino,QRIS,Kembali
+PLG0335,34,Tidak,4,185000,Tidak,12,Ya,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0336,42,Tidak,5,128000,Ya,60,Ya,Coklat Panas,E-Wallet,Kabur
+PLG0337,31,Ya,6,304000,Tidak,5,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0338,28,Tidak,5,124000,Tidak,18,Ya,Matcha Latte,E-Wallet,Kembali
+PLG0339,21,Tidak,2,44000,Tidak,11,Ya,Caffe Latte,Tunai,Kabur
+PLG0340,54,Tidak,4,173000,Tidak,9,Ya,Caffe Latte,QRIS,Kembali
+PLG0341,46,Ya,8,249000,Ya,14,Tidak,Caffe Latte,Kartu Debit,Kembali
+PLG0342,35,Tidak,5,255000,Tidak,4,Tidak,Coklat Panas,Kartu Debit,Kembali
+PLG0343,26,Tidak,6,219000,Tidak,2,Ya,Matcha Latte,QRIS,Kembali
+PLG0344,41,Tidak,3,164000,Ya,19,Tidak,Caffe Latte,QRIS,Kabur
+PLG0345,33,Ya,10,381000,Ya,5,Ya,Americano,E-Wallet,Kembali
+PLG0346,41,Tidak,5,143000,Ya,17,Tidak,Cappuccino,Kartu Debit,Kembali
+PLG0347,20,Tidak,6,137000,Ya,4,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0348,24,Ya,6,193000,Tidak,11,Ya,Americano,QRIS,Kembali
+PLG0349,45,Ya,3,118000,Ya,4,Tidak,Americano,E-Wallet,Kembali
+PLG0350,19,Tidak,4,209000,Ya,11,Ya,Americano,QRIS,Kembali
+PLG0351,43,Tidak,5,161000,Tidak,22,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0352,33,Ya,6,175000,Ya,1,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0353,17,Tidak,2,77000,Ya,28,Tidak,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0354,46,Ya,7,319000,Tidak,22,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0355,44,Tidak,6,194000,Ya,2,Tidak,Cappuccino,E-Wallet,Kembali
+PLG0356,48,Tidak,1,37000,Tidak,31,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kabur
+PLG0357,51,Tidak,1,37000,Tidak,23,Tidak,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0358,45,Ya,5,211000,Tidak,60,Tidak,Es Kopi Susu Gula Aren,Tunai,Kabur
+PLG0359,49,Ya,9,349000,Ya,8,Ya,Caffe Latte,E-Wallet,Kembali
+PLG0360,21,Ya,8,229000,Ya,9,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0361,52,Ya,10,405000,Tidak,11,Ya,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0362,52,Ya,5,233000,Tidak,15,Ya,Matcha Latte,QRIS,Kembali
+PLG0363,44,Ya,5,200000,Tidak,30,Tidak,Americano,Tunai,Kabur
+PLG0364,48,Ya,10,125000,Tidak,19,Ya,Matcha Latte,QRIS,Kembali
+PLG0365,45,Tidak,5,162000,Tidak,9,Ya,Americano,E-Wallet,Kembali
+PLG0366,51,Ya,9,309000,Ya,1,Tidak,Americano,QRIS,Kembali
+PLG0367,51,Tidak,5,202000,Tidak,3,Tidak,Cappuccino,QRIS,Kabur
+PLG0368,37,Tidak,6,216000,Ya,8,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0369,48,Ya,2,83000,Ya,6,Ya,Coklat Panas,QRIS,Kembali
+PLG0370,52,Tidak,2,84000,Tidak,0,Ya,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0371,28,Tidak,7,172000,Ya,4,Tidak,Coklat Panas,Kartu Debit,Kembali
+PLG0372,18,Ya,9,266000,Tidak,3,Tidak,Caffe Latte,QRIS,Kembali
+PLG0373,23,Ya,2,79000,Tidak,12,Ya,Matcha Latte,E-Wallet,Kabur
+PLG0374,18,Tidak,4,85000,Ya,10,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0375,33,Tidak,5,200000,Tidak,18,Tidak,Matcha Latte,QRIS,Kembali
+PLG0376,17,Tidak,6,245000,Ya,2,Tidak,Cappuccino,QRIS,Kembali
+PLG0377,27,Ya,2,57000,Tidak,7,Tidak,Americano,E-Wallet,Kembali
+PLG0378,26,Tidak,4,41000,Ya,11,Tidak,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0379,44,Tidak,5,219000,Tidak,13,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kabur
+PLG0380,26,Tidak,2,42000,Tidak,8,Ya,Matcha Latte,Tunai,Kabur
+PLG0381,54,Ya,10,409000,Tidak,7,Tidak,Coklat Panas,E-Wallet,Kembali
+PLG0382,24,Tidak,4,129000,Tidak,19,Ya,Americano,QRIS,Kabur
+PLG0383,54,Ya,8,311000,Ya,3,Ya,Caffe Latte,E-Wallet,Kembali
+PLG0384,39,Tidak,2,73000,Tidak,2,Ya,Caffe Latte,E-Wallet,Kembali
+PLG0385,26,Ya,5,191000,Tidak,1,Ya,Cappuccino,Kartu Debit,Kembali
+PLG0386,18,Ya,7,202000,Ya,1,Tidak,Cappuccino,QRIS,Kabur
+PLG0387,28,Tidak,5,139000,Ya,9,Tidak,Cappuccino,E-Wallet,Kembali
+PLG0388,40,Tidak,3,117000,Tidak,60,Ya,Americano,E-Wallet,Kabur
+PLG0389,21,Tidak,9,231000,Tidak,1,Ya,Caffe Latte,QRIS,Kembali
+PLG0390,23,Tidak,4,90000,Ya,3,Ya,Americano,E-Wallet,Kembali
+PLG0391,21,Ya,8,207000,Tidak,4,Tidak,Cappuccino,QRIS,Kembali
+PLG0392,43,Ya,17,731000,Tidak,2,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0393,20,Ya,4,70000,Tidak,3,Ya,Coklat Panas,QRIS,Kembali
+PLG0394,17,Ya,7,134000,Tidak,8,Tidak,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0395,34,Ya,8,328000,Ya,3,Tidak,Caffe Latte,QRIS,Kembali
+PLG0396,29,Tidak,3,80000,Ya,2,Ya,Caffe Latte,QRIS,Kembali
+PLG0397,39,Tidak,4,130000,Ya,25,Tidak,Americano,Tunai,Kabur
+PLG0398,53,Tidak,2,72000,Tidak,12,Tidak,Coklat Panas,E-Wallet,Kembali
+PLG0399,50,Tidak,5,185000,Ya,24,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0400,37,Ya,14,522000,Ya,8,Tidak,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0401,42,Tidak,5,221000,Tidak,1,Ya,Americano,QRIS,Kembali
+PLG0402,48,Tidak,3,92000,Ya,8,Ya,Caffe Latte,Tunai,Kembali
+PLG0403,34,Tidak,1,38000,Tidak,12,Tidak,Cappuccino,QRIS,Kabur
+PLG0404,42,Tidak,5,141000,Tidak,50,Ya,Caffe Latte,QRIS,Kabur
+PLG0405,25,Tidak,3,113000,Tidak,9,Tidak,Matcha Latte,QRIS,Kabur
+PLG0406,40,Ya,4,82000,Ya,0,Tidak,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0407,26,Tidak,7,115000,Tidak,2,Ya,Cappuccino,QRIS,Kembali
+PLG0408,24,Tidak,3,95000,Ya,4,Tidak,Americano,Kartu Debit,Kabur
+PLG0409,46,Ya,6,254000,Tidak,8,Tidak,Caffe Latte,QRIS,Kabur
+PLG0410,39,Tidak,3,97000,Ya,4,Ya,Cappuccino,E-Wallet,Kembali
+PLG0411,31,Tidak,3,110000,Ya,15,Tidak,Americano,QRIS,Kabur
+PLG0412,18,Ya,5,100000,Ya,12,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0413,26,Tidak,7,189000,Ya,13,Tidak,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0414,48,Tidak,3,61000,Tidak,7,Tidak,Americano,QRIS,Kembali
+PLG0415,35,Tidak,3,117000,Ya,3,Ya,Americano,QRIS,Kembali
+PLG0416,54,Ya,6,210000,Ya,11,Tidak,Americano,Tunai,Kembali
+PLG0417,52,Ya,7,297000,Ya,3,Tidak,Caffe Latte,E-Wallet,Kembali
+PLG0418,50,Tidak,3,155000,Ya,60,Tidak,Americano,E-Wallet,Kabur
+PLG0419,17,Tidak,3,60000,Ya,4,Ya,Matcha Latte,QRIS,Kembali
+PLG0420,18,Tidak,4,158000,Ya,60,Ya,Americano,Kartu Debit,Kabur
+PLG0421,39,Ya,6,219000,Tidak,3,Tidak,Americano,QRIS,Kembali
+PLG0422,30,Tidak,4,55000,Ya,14,Tidak,Americano,E-Wallet,Kabur
+PLG0423,49,Tidak,6,122000,Tidak,10,Ya,Coklat Panas,Kartu Debit,Kembali
+PLG0424,29,Ya,4,150000,Ya,2,Ya,Cappuccino,E-Wallet,Kembali
+PLG0425,22,Ya,12,303000,Ya,1,Ya,Coklat Panas,QRIS,Kembali
+PLG0426,21,Ya,5,94000,Ya,3,Ya,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0427,28,Tidak,3,58000,Tidak,16,Tidak,Coklat Panas,Kartu Debit,Kembali
+PLG0428,41,Tidak,3,94000,Ya,52,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0429,21,Ya,10,379000,Ya,3,Tidak,Matcha Latte,E-Wallet,Kembali
+PLG0430,48,Ya,9,369000,Tidak,0,Tidak,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0431,28,Ya,10,431000,Ya,0,Ya,Matcha Latte,E-Wallet,Kembali
+PLG0432,29,Tidak,8,204000,Ya,0,Ya,Caffe Latte,QRIS,Kembali
+PLG0433,42,Tidak,4,83000,Ya,11,Ya,Caffe Latte,E-Wallet,Kabur
+PLG0434,50,Ya,7,315000,Tidak,17,Ya,Americano,Tunai,Kembali
+PLG0435,33,Ya,5,184000,Ya,4,Tidak,Americano,QRIS,Kembali
+PLG0436,48,Tidak,5,179000,Tidak,25,Tidak,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0437,28,Tidak,2,76000,Ya,21,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0438,22,Tidak,4,108000,Tidak,4,Tidak,Caffe Latte,QRIS,Kembali
+PLG0439,49,Tidak,4,164000,Tidak,2,Ya,Americano,QRIS,Kembali
+PLG0440,46,Ya,9,391000,Tidak,3,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0441,46,Ya,10,364000,Tidak,10,Tidak,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0442,51,Tidak,3,138000,Ya,31,Ya,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0443,36,Tidak,3,98000,Ya,14,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0444,24,Ya,6,219000,Tidak,2,Tidak,Americano,Tunai,Kembali
+PLG0445,39,Tidak,4,179000,Ya,36,Ya,Coklat Panas,E-Wallet,Kabur
+PLG0446,39,Ya,4,154000,Tidak,7,Tidak,Cappuccino,Kartu Debit,Kembali
+PLG0447,32,Tidak,3,118000,Tidak,9,Ya,Caffe Latte,E-Wallet,Kabur
+PLG0448,41,Ya,6,281000,Tidak,4,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0449,27,Tidak,1,28000,Ya,3,Tidak,Caffe Latte,QRIS,Kabur
+PLG0450,40,Ya,8,360000,Ya,3,Tidak,Matcha Latte,QRIS,Kembali
+PLG0451,47,Tidak,3,119000,Tidak,12,Tidak,Coklat Panas,QRIS,Kabur
+PLG0452,20,Tidak,5,150000,Tidak,6,Tidak,Caffe Latte,QRIS,Kembali
+PLG0453,34,Tidak,6,199000,Tidak,1,Ya,Cappuccino,E-Wallet,Kembali
+PLG0454,42,Ya,4,178000,Tidak,2,Tidak,Coklat Panas,QRIS,Kembali
+PLG0455,18,Ya,8,252000,Tidak,2,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0456,41,Ya,11,401000,Tidak,7,Ya,Matcha Latte,Tunai,Kembali
+PLG0457,52,Ya,6,224000,Tidak,1,Ya,Caffe Latte,E-Wallet,Kembali
+PLG0458,49,Ya,4,144000,Ya,10,Ya,Caffe Latte,QRIS,Kembali
+PLG0459,43,Ya,9,393000,Tidak,5,Tidak,Americano,Kartu Debit,Kembali
+PLG0460,48,Tidak,3,83000,Ya,22,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0461,31,Ya,5,186000,Tidak,3,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0462,29,Tidak,2,86000,Ya,21,Ya,Caffe Latte,QRIS,Kabur
+PLG0463,20,Ya,8,217000,Tidak,0,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0464,45,Ya,8,211000,Tidak,6,Ya,Coklat Panas,Tunai,Kembali
+PLG0465,29,Ya,8,201000,Ya,8,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0466,50,Tidak,4,198000,Tidak,4,Tidak,Matcha Latte,QRIS,Kembali
+PLG0467,35,Ya,4,164000,Tidak,2,Ya,Cappuccino,QRIS,Kembali
+PLG0468,51,Tidak,3,146000,Ya,1,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0469,22,Tidak,2,55000,Tidak,18,Ya,Es Kopi Susu Gula Aren,Kartu Debit,Kabur
+PLG0470,23,Tidak,2,64000,Tidak,1,Ya,Americano,Tunai,Kabur
+PLG0471,30,Tidak,5,124000,Tidak,15,Tidak,Americano,Tunai,Kabur
+PLG0472,18,Tidak,3,77000,Tidak,23,Tidak,Es Kopi Susu Gula Aren,Tunai,Kabur
+PLG0473,36,Ya,3,97000,Ya,6,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0474,42,Tidak,3,109000,Ya,1,Ya,Coklat Panas,Tunai,Kembali
+PLG0475,42,Ya,7,331000,Tidak,2,Tidak,Americano,Tunai,Kembali
+PLG0476,25,Ya,3,99000,Ya,28,Ya,Caffe Latte,E-Wallet,Kembali
+PLG0477,23,Tidak,7,196000,Tidak,12,Ya,Caffe Latte,QRIS,Kembali
+PLG0478,38,Tidak,5,196000,Ya,5,Tidak,Americano,QRIS,Kembali
+PLG0479,41,Tidak,3,129000,Tidak,21,Tidak,Coklat Panas,QRIS,Kabur
+PLG0480,53,Ya,1,28000,Ya,33,Ya,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0481,51,Tidak,4,134000,Tidak,17,Ya,Es Kopi Susu Gula Aren,Tunai,Kabur
+PLG0482,31,Tidak,4,112000,Tidak,14,Ya,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0483,23,Ya,2,45000,Ya,26,Tidak,Es Kopi Susu Gula Aren,Kartu Debit,Kabur
+PLG0484,26,Tidak,2,43000,Tidak,25,Ya,Es Kopi Susu Gula Aren,Kartu Debit,Kabur
+PLG0485,51,Tidak,6,191000,Tidak,5,Tidak,Caffe Latte,QRIS,Kembali
+PLG0486,34,Ya,3,80000,Ya,13,Ya,Cappuccino,QRIS,Kembali
+PLG0487,55,Tidak,6,249000,Tidak,2,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0488,42,Ya,5,207000,Tidak,2,Tidak,Coklat Panas,QRIS,Kembali
+PLG0489,40,Ya,10,277000,Ya,3,Tidak,Caffe Latte,Tunai,Kembali
+PLG0490,20,Ya,5,131000,Ya,1,Tidak,Cappuccino,E-Wallet,Kembali
+PLG0491,40,Tidak,5,130000,Ya,26,Tidak,Coklat Panas,QRIS,Kembali
+PLG0492,31,Ya,6,350000,Tidak,6,Tidak,Cappuccino,Tunai,Kembali
+PLG0493,49,Tidak,5,191000,Tidak,33,Ya,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0494,22,Tidak,4,110000,Ya,8,Ya,Matcha Latte,E-Wallet,Kembali
+PLG0495,24,Ya,8,192000,Tidak,1,Tidak,Coklat Panas,Tunai,Kembali
+PLG0496,42,Tidak,4,152000,Ya,26,Tidak,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0497,43,Tidak,4,158000,Tidak,34,Tidak,Cappuccino,Tunai,Kembali
+PLG0498,49,Tidak,3,155000,Tidak,33,Tidak,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0499,37,Tidak,5,181000,Ya,32,Ya,Coklat Panas,QRIS,Kembali
+PLG0500,31,Tidak,6,304000,Tidak,14,Tidak,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0501,28,Tidak,4,146000,Tidak,20,Tidak,Matcha Latte,QRIS,Kabur
+PLG0502,31,Ya,10,258000,Tidak,6,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0503,42,Tidak,2,99000,Ya,25,Ya,Caffe Latte,E-Wallet,Kabur
+PLG0504,38,Tidak,1,47000,Tidak,3,Tidak,Caffe Latte,E-Wallet,Kabur
+PLG0505,28,Tidak,4,128000,Tidak,20,Tidak,Matcha Latte,QRIS,Kembali
+PLG0506,25,Tidak,1,22000,Ya,23,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kabur
+PLG0507,44,Tidak,4,164000,Tidak,14,Tidak,Cappuccino,QRIS,Kabur
+PLG0508,26,Ya,7,206000,Ya,5,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0509,25,Tidak,5,108000,Ya,18,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0510,29,Tidak,4,160000,Tidak,28,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kabur
+PLG0511,50,Tidak,3,144000,Ya,32,Tidak,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0512,34,Ya,5,171000,Ya,11,Tidak,Coklat Panas,Tunai,Kembali
+PLG0513,40,Tidak,1,43000,Ya,19,Tidak,Cappuccino,QRIS,Kabur
+PLG0514,20,Tidak,3,114000,Tidak,1,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0515,30,Ya,6,202000,Tidak,2,Tidak,Cappuccino,Tunai,Kembali
+PLG0516,46,Tidak,2,73000,Ya,4,Tidak,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0517,47,Tidak,4,193000,Tidak,8,Tidak,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0518,39,Tidak,4,184000,Ya,22,Ya,Caffe Latte,Tunai,Kembali
+PLG0519,51,Ya,6,187000,Tidak,13,Tidak,Caffe Latte,QRIS,Kembali
+PLG0520,28,Tidak,3,62000,Ya,6,Ya,Caffe Latte,Tunai,Kembali
+PLG0521,23,Ya,10,213000,Tidak,3,Tidak,Coklat Panas,QRIS,Kembali
+PLG0522,20,Ya,5,120000,Tidak,21,Tidak,Coklat Panas,QRIS,Kembali
+PLG0523,24,Tidak,4,145000,Ya,1,Ya,Matcha Latte,Kartu Debit,Kabur
+PLG0524,46,Tidak,4,156000,Tidak,5,Tidak,Americano,Kartu Debit,Kembali
+PLG0525,52,Tidak,2,66000,Tidak,11,Tidak,Matcha Latte,E-Wallet,Kabur
+PLG0526,22,Tidak,2,51000,Tidak,4,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0527,36,Ya,10,482000,Ya,7,Ya,Matcha Latte,QRIS,Kembali
+PLG0528,22,Ya,4,80000,Tidak,60,Ya,Es Kopi Susu Gula Aren,Tunai,Kabur
+PLG0529,49,Ya,4,140000,Tidak,4,Tidak,Coklat Panas,Tunai,Kembali
+PLG0530,22,Ya,7,235000,Tidak,0,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0531,41,Tidak,1,25000,Tidak,2,Ya,Matcha Latte,Kartu Debit,Kabur
+PLG0532,20,Ya,9,320000,Tidak,2,Ya,Cappuccino,QRIS,Kembali
+PLG0533,45,Ya,7,287000,Ya,9,Tidak,Matcha Latte,QRIS,Kembali
+PLG0534,52,Tidak,4,157000,Tidak,1,Tidak,Cappuccino,Tunai,Kabur
+PLG0535,45,Ya,2,67000,Tidak,4,Tidak,Matcha Latte,Tunai,Kembali
+PLG0536,27,Ya,7,137000,Tidak,4,Ya,Caffe Latte,QRIS,Kembali
+PLG0537,49,Tidak,4,119000,Tidak,43,Ya,Caffe Latte,E-Wallet,Kabur
+PLG0538,28,Tidak,4,121000,Ya,33,Tidak,Coklat Panas,QRIS,Kembali
+PLG0539,46,Ya,5,171000,Ya,3,Ya,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0540,49,Tidak,1,42000,Ya,3,Ya,Coklat Panas,QRIS,Kabur
+PLG0541,35,Ya,8,442000,Tidak,4,Ya,Cappuccino,E-Wallet,Kembali
+PLG0542,41,Tidak,3,142000,Tidak,28,Ya,Caffe Latte,E-Wallet,Kabur
+PLG0543,50,Tidak,1,32000,Tidak,17,Ya,Caffe Latte,Kartu Debit,Kabur
+PLG0544,24,Ya,9,197000,Tidak,20,Tidak,Americano,E-Wallet,Kembali
+PLG0545,17,Ya,6,215000,Ya,19,Ya,Cappuccino,E-Wallet,Kembali
+PLG0546,33,Tidak,5,157000,Ya,9,Ya,Coklat Panas,Kartu Debit,Kabur
+PLG0547,24,Tidak,2,73000,Ya,20,Tidak,Cappuccino,Kartu Debit,Kabur
+PLG0548,51,Ya,6,261000,Ya,10,Ya,Coklat Panas,E-Wallet,Kembali
+PLG0549,50,Tidak,4,123000,Ya,26,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0550,31,Ya,8,276000,Ya,11,Ya,Cappuccino,Kartu Debit,Kembali
+PLG0551,29,Tidak,5,145000,Ya,55,Ya,Caffe Latte,QRIS,Kembali
+PLG0552,44,Ya,7,218000,Tidak,1,Tidak,Americano,Tunai,Kembali
+PLG0553,34,Ya,8,217000,Tidak,5,Ya,Es Kopi Susu Gula Aren,QRIS,Kembali
+PLG0554,20,Ya,8,207000,Tidak,1,Tidak,Matcha Latte,Tunai,Kembali
+PLG0555,42,Tidak,4,196000,Tidak,6,Ya,Matcha Latte,Tunai,Kembali
+PLG0556,45,Ya,5,184000,Ya,22,Tidak,Americano,E-Wallet,Kembali
+PLG0557,19,Tidak,2,55000,Tidak,6,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0558,47,Tidak,4,126000,Tidak,22,Tidak,Matcha Latte,QRIS,Kabur
+PLG0559,37,Tidak,2,59000,Tidak,2,Tidak,Matcha Latte,QRIS,Kembali
+PLG0560,49,Ya,8,410000,Tidak,9,Tidak,Matcha Latte,QRIS,Kembali
+PLG0561,50,Tidak,3,51000,Tidak,1,Ya,Matcha Latte,Kartu Debit,Kembali
+PLG0562,43,Tidak,4,139000,Ya,22,Ya,Es Kopi Susu Gula Aren,QRIS,Kabur
+PLG0563,30,Tidak,6,199000,Ya,4,Tidak,Caffe Latte,E-Wallet,Kabur
+PLG0564,31,Ya,4,110000,Ya,9,Ya,Americano,QRIS,Kembali
+PLG0565,45,Ya,7,298000,Tidak,1,Tidak,Americano,E-Wallet,Kembali
+PLG0566,19,Ya,2,80000,Tidak,33,Ya,Americano,E-Wallet,Kabur
+PLG0567,26,Ya,6,128000,Tidak,4,Tidak,Caffe Latte,E-Wallet,Kembali
+PLG0568,37,Tidak,3,123000,Ya,4,Ya,Coklat Panas,Tunai,Kembali
+PLG0569,53,Ya,7,177000,Ya,3,Ya,Cappuccino,E-Wallet,Kembali
+PLG0570,46,Ya,2,77000,Tidak,7,Ya,Americano,QRIS,Kembali
+PLG0571,48,Ya,3,134000,Tidak,5,Tidak,Caffe Latte,E-Wallet,Kembali
+PLG0572,24,Ya,9,253000,Ya,4,Tidak,Caffe Latte,E-Wallet,Kembali
+PLG0573,27,Ya,6,237000,Ya,12,Tidak,Americano,Tunai,Kembali
+PLG0574,27,Tidak,5,138000,Ya,22,Tidak,Caffe Latte,Kartu Debit,Kembali
+PLG0575,46,Tidak,2,100000,Tidak,2,Tidak,Caffe Latte,QRIS,Kembali
+PLG0576,37,Ya,7,311000,Tidak,6,Ya,Caffe Latte,Tunai,Kembali
+PLG0577,25,Tidak,2,39000,Ya,16,Tidak,Es Kopi Susu Gula Aren,Tunai,Kabur
+PLG0578,46,Ya,6,274000,Tidak,4,Tidak,Caffe Latte,QRIS,Kembali
+PLG0579,41,Ya,5,207000,Ya,6,Tidak,Americano,QRIS,Kembali
+PLG0580,51,Tidak,4,102000,Ya,4,Ya,Matcha Latte,E-Wallet,Kembali
+PLG0581,38,Tidak,2,88000,Ya,1,Ya,Caffe Latte,E-Wallet,Kembali
+PLG0582,21,Tidak,6,160000,Tidak,2,Ya,Matcha Latte,QRIS,Kabur
+PLG0583,51,Ya,1,40000,Tidak,6,Ya,Matcha Latte,Tunai,Kabur
+PLG0584,24,Ya,9,205000,Tidak,2,Ya,Es Kopi Susu Gula Aren,Tunai,Kembali
+PLG0585,19,Ya,4,112000,Tidak,22,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0586,48,Ya,6,259000,Ya,2,Tidak,Matcha Latte,Tunai,Kembali
+PLG0587,34,Ya,7,270000,Ya,1,Tidak,Es Kopi Susu Gula Aren,Kartu Debit,Kembali
+PLG0588,42,Ya,10,333000,Ya,2,Tidak,Coklat Panas,E-Wallet,Kembali
+PLG0589,22,Tidak,6,66000,Tidak,0,Tidak,Caffe Latte,QRIS,Kembali
+PLG0590,45,Ya,3,149000,Ya,44,Tidak,Americano,Tunai,Kabur
+PLG0591,32,Ya,12,302000,Ya,2,Ya,Caffe Latte,E-Wallet,Kembali
+PLG0592,55,Tidak,5,94000,Tidak,3,Ya,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0593,41,Ya,14,452000,Tidak,1,Tidak,Caffe Latte,E-Wallet,Kembali
+PLG0594,53,Ya,4,130000,Tidak,14,Tidak,Coklat Panas,QRIS,Kembali
+PLG0595,47,Ya,11,422000,Ya,3,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0596,49,Tidak,7,192000,Tidak,2,Tidak,Coklat Panas,QRIS,Kembali
+PLG0597,20,Tidak,6,192000,Tidak,2,Tidak,Es Kopi Susu Gula Aren,E-Wallet,Kembali
+PLG0598,47,Tidak,4,119000,Tidak,7,Tidak,Americano,E-Wallet,Kembali
+PLG0599,40,Tidak,4,212000,Ya,12,Ya,Coklat Panas,QRIS,Kabur
+PLG0600,32,Ya,10,458000,Tidak,4,Tidak,Matcha Latte,Tunai,Kembali
